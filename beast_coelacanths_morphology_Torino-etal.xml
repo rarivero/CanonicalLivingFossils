@@ -1,0 +1,1200 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><beast beautitemplate='Standard' beautistatus='' namespace="beast.core:beast.evolution.alignment:beast.evolution.tree.coalescent:beast.core.util:beast.evolution.nuc:beast.evolution.operators:beast.evolution.sitemodel:beast.evolution.substitutionmodel:beast.evolution.likelihood" required="" version="2.6">
+
+
+    <data
+id="data_coelacanths_morphology-Torino-etal_matrix"
+spec="Alignment"
+dataType="standard">
+                            <sequence id="seq_Actinopterygii" spec="Sequence" taxon="Actinopterygii" totalcount="5" value="?0000?0??0010000?00000211?00001111???00????????010?1004000?0000000000??1??00110000010000?10000000000000000000001234"/>
+                            <sequence id="seq_Allenypterus" spec="Sequence" taxon="Allenypterus" totalcount="5" value="0?????1001?0??000010000000001?110000000001001??101010???0110001000?????????????????????1010010101000000000101001234"/>
+                            <sequence id="seq_Atacamaia" spec="Sequence" taxon="Atacamaia" totalcount="5" value="21????0-01?0??10?1011?2?1?01???00?11???001120???1?01?????????1???????????????????????????????????????????????001234"/>
+                            <sequence id="seq_Axelia" spec="Sequence" taxon="Axelia" totalcount="5" value="??????0?0110?110211?100???00???????????????????????1????0???1????001??????????????????????????????0????0?0???001234"/>
+                            <sequence id="seq_Axelrodichthys" spec="Sequence" taxon="Axelrodichthys" totalcount="5" value="1?0010110010110101101020?12010100011010010110001201011401??01011110110001111?000110?11110111111?01001101?1100?01234"/>
+                            <sequence id="seq_Caridosuctor" spec="Sequence" taxon="Caridosuctor" totalcount="5" value="1000001101?0??001011000010000111??000000000??0001001014100001010001????????????????????101?0111010001100?0100?01234"/>
+                            <sequence id="seq_Chinlea" spec="Sequence" taxon="Chinlea" totalcount="5" value="00?01?100010??0011?110????2011100?110000001?0???2000???11???1?11001????????????????????1?1?11111?000?101?1?00?01234"/>
+                            <sequence id="seq_Coccoderma" spec="Sequence" taxon="Coccoderma" totalcount="5" value="10?011110?10010010110020101010100?001100000100110001?14100001111000????????????????????1111011100011010011110001234"/>
+                            <sequence id="seq_Coelacanthus" spec="Sequence" taxon="Coelacanthus" totalcount="5" value="00?11?110010010011?110?0?1101???00001??0010?1?1?100101410??01?110000???????????????????10100111010000100?0100001234"/>
+                            <sequence id="seq_Diplocercides" spec="Sequence" taxon="Diplocercides" totalcount="5" value="001???11010000000010002110000111010000000000000010010030010000000000011101001101?010000??00010100000??0000???001234"/>
+                            <sequence id="seq_Diplurus" spec="Sequence" taxon="Diplurus" totalcount="5" value="00001?111010101021111000?1101110001000000100111101001??000001?11000010001?11?00???0?11110111111101000101?0000001234"/>
+                            <sequence id="seq_Dobrogeria" spec="Sequence" taxon="Dobrogeria" totalcount="5" value="1?????????101110?1111??0?1001??1??11????????????1???1????01?1??1????1010111???????0??111?????????????????????001234"/>
+                            <sequence id="seq_Euporosteus" spec="Sequence" taxon="Euporosteus" totalcount="5" value="0?1??010?10?0?10?0??0?0???????00????????????????????????????????????011?0????1010?1?0?0????????????????1????1?01234"/>
+                            <sequence id="seq_Foreyia" spec="Sequence" taxon="Foreyia" totalcount="5" value="00??111001?0??????1???4???0010110000000101100??11000?1411???11110010??0???????1?????1??101?011100100??11?00??101234"/>
+                            <sequence id="seq_Garnbergia" spec="Sequence" taxon="Garnbergia" totalcount="5" value="??????11?0?0?????1??????????1?10001100?0000?????1?00???????????????????????????????????????????1?0??0100?0??0?01234"/>
+                            <sequence id="seq_Gavinia" spec="Sequence" taxon="Gavinia" totalcount="5" value="?0?000?????1??????0?????????0?0?01??0??000??0?0010???0??0????10?????????????????????????????010?1?????00?0????01234"/>
+                            <sequence id="seq_Guizhoucoelacanthus" spec="Sequence" taxon="Guizhoucoelacanthus" totalcount="5" value="0000??1001?0??000111100000101?1?0001000000101?001000????000?1111000????????????????????1?10011020000010001??0?01234"/>
+                            <sequence id="seq_Hadronector" spec="Sequence" taxon="Hadronector" totalcount="5" value="00100011?1?0??00001000101000011100??0000000?1?0?10010???0010000000?????????????????????101?011100000010??0100001234"/>
+                            <sequence id="seq_Heptanema" spec="Sequence" taxon="Heptanema" totalcount="5" value="00????100?????????????????001?1??01?000?????????0??0???????????????????????????????????1?1?0111201000?0??01???01234"/>
+                            <sequence id="seq_Holophagus" spec="Sequence" taxon="Holophagus" totalcount="5" value="10?01?1110101110?1111?20?100101100100000000?1??110001??110011110001???????11?????1??1??1?1101111?1100110?0100?01234"/>
+                            <sequence id="seq_Holopterygius" spec="Sequence" taxon="Holopterygius" totalcount="5" value="?0?0????????????????????0?????????????????????????????00??0?????????00?????????00????????10?00101?1????00???1?01234"/>
+                            <sequence id="seq_Indocoelacanthus" spec="Sequence" taxon="Indocoelacanthus" totalcount="5" value="0?????1????0????????????????1???00??000000??????10?0????1?????1000?????????????????????????????????????0?0????01234"/>
+                            <sequence id="seq_Latimeria" spec="Sequence" taxon="Latimeria" totalcount="5" value="0011111110101110211111001021111100100011000111111110114110111?11001010001011001011001111011011120100010010000101234"/>
+                            <sequence id="seq_Laugia" spec="Sequence" taxon="Laugia" totalcount="5" value="1??0??0?0110010010110000?100100000000000000100111001014000001111000011101110110??00010110110111110110100?0110001234"/>
+                            <sequence id="seq_Libys" spec="Sequence" taxon="Libys" totalcount="5" value="0???1?????10111??1111?30?110101000100010000?1???02?0?14110011?110001???????????????????1111011110110011010100101234"/>
+                            <sequence id="seq_Lochmocercus" spec="Sequence" taxon="Lochmocercus" totalcount="5" value="??????????????????10100???000111??00000000?01000?001?0?00??000??000????????????????????101??10100000100??0?00001234"/>
+                            <sequence id="seq_Lualabaea" spec="Sequence" taxon="Lualabaea" totalcount="5" value="0??????????0??01??????????20????????????????????2????1??1?????1111???????????????????????????????1?????1?????101234"/>
+                            <sequence id="seq_Luopingcoelacanthus" spec="Sequence" taxon="Luopingcoelacanthus" totalcount="5" value="???01?110??01?10?1???????1001?100001000000???00110?111??1???1111000?100???????1??????1?10100111001000101?0100?01234"/>
+                            <sequence id="seq_Macropoma" spec="Sequence" taxon="Macropoma" totalcount="5" value="02?0?1111010111021111120?100101?00100011000110111010114?10111111000010001011?01?110?1111111011120100010110100101234"/>
+                            <sequence id="seq_Mawsonia" spec="Sequence" taxon="Mawsonia" totalcount="5" value="1?????110010100131111020?120101000010000101?0001201011??1???10111?0???101?11??????0???11?1?111110?00?101?110?001234"/>
+                            <sequence id="seq_Megalocoelacanthus" spec="Sequence" taxon="Megalocoelacanthus" totalcount="5" value="01?0011100101110?1111?30??101????????????????????2?011?01??11?1100011100111??01???0?1?11??1??????????????????101234"/>
+                            <sequence id="seq_Miguashaia" spec="Sequence" taxon="Miguashaia" totalcount="5" value="00?0000?0?01??000000002?00000?1101??00000000000?10?1?0??001??0??0100???????????????????1?0??0000?000??0000??0?01234"/>
+                            <sequence id="seq_Parnaibaia" spec="Sequence" taxon="Parnaibaia" totalcount="5" value="0011??1000?0??1011?1??20002010?000110??000??????2?001??01???11111?00?????????1???????1?1?1?1111101000?01?010??01234"/>
+                            <sequence id="seq_Piveteauia" spec="Sequence" taxon="Piveteauia" totalcount="5" value="1?????????1011?0?1?1?1?0??00?11??0000???????01011??111??0???1???00?0?????????11????????1??10??1110010100?01?0?01234"/>
+                            <sequence id="seq_Polyosteorhynchus" spec="Sequence" taxon="Polyosteorhynchus" totalcount="5" value="00?0001101???100?010101???000111?0000000000?1?00100101?0001010??000????????????????????1?110111?10001000?0100001234"/>
+                            <sequence id="seq_Porolepiformes" spec="Sequence" taxon="Porolepiformes" totalcount="5" value="00100?0??0000000000000210?00011111??0000000000001001003000?00?0000100101?000?101000?0?0000000000?000000000000001234"/>
+                            <sequence id="seq_Rebellatrix" spec="Sequence" taxon="Rebellatrix" totalcount="5" value="????????????????????????????????????????????????1?????????1????????????????????????????1011011100000010000?0??01234"/>
+                            <sequence id="seq_Reidus" spec="Sequence" taxon="Reidus" totalcount="5" value="????????????????????????????1?1??0??000????????1????1140100?1?110000?????????????????????????????????????0????01234"/>
+                            <sequence id="seq_Rhabdoderma" spec="Sequence" taxon="Rhabdoderma" totalcount="5" value="100000100110010010110000100001110000000000001100100101410000100100101110110?0000?0001011010011100000110000100001234"/>
+                            <sequence id="seq_Sassenia" spec="Sequence" taxon="Sassenia" totalcount="5" value="10????1?01100100?01??0201000111101000000000010001001?1?10??0111100??011011001?01?0011011???????????????0?0??0001234"/>
+                            <sequence id="seq_Serenichthys" spec="Sequence" taxon="Serenichthys" totalcount="5" value="00???010?1?0??00101???????0001110000000000001?001001?0??0????0???0?????????????????????100?010110000??00?0??0?01234"/>
+                            <sequence id="seq_Spermatodus" spec="Sequence" taxon="Spermatodus" totalcount="5" value="1000001101100110?111?020?1001?110100000000?????010010141?000?1???01110101??0110??00?101????????????????0?0????01234"/>
+                            <sequence id="seq_Styloichthys" spec="Sequence" taxon="Styloichthys" totalcount="5" value="1?????0???01??00?0????2101000?0?01??0?????????0010??00??0100?10?00??0?11??0???00?0?1000???????????????????????01234"/>
+                            <sequence id="seq_Swenzia" spec="Sequence" taxon="Swenzia" totalcount="5" value="01?0??1????011???1??11?01011111?001000110001101110?0?1??101?1?110??0??????????1??????????1?011??0??001?0?01???01234"/>
+                            <sequence id="seq_Ticinepomis" spec="Sequence" taxon="Ticinepomis" totalcount="5" value="0??0??10??10?????0????????001?1?0???000?011????????0?131???11?110010?????????????????1?1?1?011110100011000000101234"/>
+                            <sequence id="seq_Trachymetopon" spec="Sequence" taxon="Trachymetopon" totalcount="5" value="0????????010100101??10?0?1201?????1?????????????2??011??10001011010?11?0111????0?00?1?11?11111100100010110100001234"/>
+                            <sequence id="seq_Undina" spec="Sequence" taxon="Undina" totalcount="5" value="00?00?1110101110211?1?2???01101100??0000000?101110001??1101?1100001010001011?01??1??111101?011110100010010100101234"/>
+                            <sequence id="seq_Whiteia" spec="Sequence" taxon="Whiteia" totalcount="5" value="00?00010011001101111100010001111000100000001110010011141101?111100001000111??00?11011111?100111?0?00010010?00001234"/>
+                            <sequence id="seq_Wimania" spec="Sequence" taxon="Wimania" totalcount="5" value="??????0???1001??????????????1?0???01000?00????0???01???10??????????0???????????????????????0???????????0?0???001234"/>
+                            <sequence id="seq_Yunnancoelacanthus" spec="Sequence" taxon="Yunnancoelacanthus" totalcount="5" value="??00??1001?0110101?????001001?10?010000000?????11?0??0??0??0?11??002????????????????1????1001?11?100?101?0?00?01234"/>
+                            <userDataType id="StandardData.0" spec="beast.evolution.datatype.StandardData" ambiguities="" nrOfStates="5"/>
+                        </data>
+
+
+    
+
+
+    
+
+
+    
+<map name="Uniform" >beast.math.distributions.Uniform</map>
+<map name="Exponential" >beast.math.distributions.Exponential</map>
+<map name="LogNormal" >beast.math.distributions.LogNormalDistributionModel</map>
+<map name="Normal" >beast.math.distributions.Normal</map>
+<map name="Beta" >beast.math.distributions.Beta</map>
+<map name="Gamma" >beast.math.distributions.Gamma</map>
+<map name="LaplaceDistribution" >beast.math.distributions.LaplaceDistribution</map>
+<map name="prior" >beast.math.distributions.Prior</map>
+<map name="InverseGamma" >beast.math.distributions.InverseGamma</map>
+<map name="OneOnX" >beast.math.distributions.OneOnX</map>
+
+
+<run id="mcmc" spec="MCMC" chainLength="500000000" storeEvery="1000000">
+    <state id="state" spec="State" storeEvery="1000000">
+        <tree id="Tree.t:data_coelacanths_morphology-Torino-etal_matrix" spec="beast.evolution.tree.Tree" name="stateNode">
+            <trait id="dateTrait.t:data_coelacanths_morphology-Torino-etal_matrix" spec="beast.evolution.tree.TraitSet" traitname="date-backward">
+                
+                Actinopterygii=380.38,
+Allenypterus=323.2,
+Atacamaia=190.8,
+Axelia=251.2,
+Axelrodichthys=100.5,
+Caridosuctor=323.2,
+Chinlea=227,
+Coccoderma=145,
+Coelacanthus=259.1,
+Diplocercides=372.2,
+Diplurus=227,
+Dobrogeria=247.2,
+Euporosteus=382.7,
+Foreyia=237,
+Garnbergia=237,
+Gavinia=382.7,
+Guizhoucoelacanthus=227,
+Hadronector=323.2,
+Heptanema=237,
+Holophagus=190.8,
+Holopterygius=372.2,
+Indocoelacanthus=190.8,
+Latimeria=0,
+Laugia=251.2,
+Libys=145,
+Lochmocercus=323.2,
+Lualabaea=152.1,
+Luopingcoelacanthus=242,
+Macropoma=93.9,
+Mawsonia=100.5,
+Megalocoelacanthus=72.1,
+Miguashaia=372.2,
+Parnaibaia=152.1,
+Piveteauia=247.2,
+Polyosteorhynchus=323.2,
+Porolepiformes=393.3,
+Rebellatrix=247.2,
+Reidus=100.5,
+Rhabdoderma=306.95,
+Sassenia=251.2,
+Serenichthys=358.9,
+Spermatodus=270.6,
+Styloichthys=410.8,
+Swenzia=157.3,
+Ticinepomis=237,
+Trachymetopon=163.5,
+Undina=145,
+Whiteia=247.2,
+Wimania=247.2,
+Yunnancoelacanthus=242                
+                            <taxa id="TaxonSet.data_coelacanths_morphology-Torino-etal_matrix2" spec="TaxonSet">
+                    <alignment id="data_coelacanths_morphology-Torino-etal_matrix2" spec="FilteredAlignment" ascertained="true" excludefrom="99" excludeto="101" filter="3-16,18-22,24-26,28-43,45-48,51-54,56-67,69-95,97-110,111-112">
+                        <data idref="data_coelacanths_morphology-Torino-etal_matrix"/>
+                        <userDataType id="morphDataType.data_coelacanths_morphology-Torino-etal_matrix2" spec="beast.evolution.datatype.StandardData" ambiguities="" nrOfStates="2"/>
+                    </alignment>
+                </taxa>
+            </trait>
+            <taxonset idref="TaxonSet.data_coelacanths_morphology-Torino-etal_matrix2"/>
+        </tree>
+        <parameter id="gammaShape.s:data_coelacanths_morphology-Torino-etal_matrix2" spec="parameter.RealParameter" name="stateNode">1.0</parameter>
+        <parameter id="gammaShape.s:data_coelacanths_morphology-Torino-etal_matrix3" spec="parameter.RealParameter" name="stateNode">1.0</parameter>
+        <parameter id="gammaShape.s:data_coelacanths_morphology-Torino-etal_matrix4" spec="parameter.RealParameter" name="stateNode">1.0</parameter>
+        <parameter id="gammaShape.s:data_coelacanths_morphology-Torino-etal_matrix5" spec="parameter.RealParameter" name="stateNode">1.0</parameter>
+        <parameter id="ucldMean.c:data_coelacanths_morphology-Torino-etal_matrix" spec="parameter.RealParameter" name="stateNode">1.0</parameter>
+        <parameter id="ucldStdev.c:data_coelacanths_morphology-Torino-etal_matrix" spec="parameter.RealParameter" lower="0.0" name="stateNode">0.1</parameter>
+        <stateNode id="rateCategories.c:data_coelacanths_morphology-Torino-etal_matrix" spec="parameter.IntegerParameter" dimension="98">1</stateNode>
+        <parameter id="diversificationRateFBD.t:data_coelacanths_morphology-Torino-etal_matrix" spec="parameter.RealParameter" lower="0.0" name="stateNode" upper="10.0">0.01</parameter>
+        <parameter id="turnoverFBD.t:data_coelacanths_morphology-Torino-etal_matrix" spec="parameter.RealParameter" lower="0.0" name="stateNode" upper="1.0">0.5</parameter>
+        <parameter id="samplingProportionFBD.t:data_coelacanths_morphology-Torino-etal_matrix" spec="parameter.RealParameter" lower="0.0" name="stateNode" upper="1.0">0.5</parameter>
+        <parameter id="originFBD.t:data_coelacanths_morphology-Torino-etal_matrix" spec="parameter.RealParameter" lower="0.0" name="stateNode" upper="Infinity">425.0</parameter>
+    </state>
+
+    <init id="RandomTree.t:data_coelacanths_morphology-Torino-etal_matrix" spec="beast.evolution.tree.RandomTree" estimate="false" initial="@Tree.t:data_coelacanths_morphology-Torino-etal_matrix" taxa="@data_coelacanths_morphology-Torino-etal_matrix2">
+        <populationModel id="ConstantPopulation0.t:data_coelacanths_morphology-Torino-etal_matrix" spec="ConstantPopulation">
+            <parameter id="randomPopSize.t:data_coelacanths_morphology-Torino-etal_matrix" spec="parameter.RealParameter" name="popSize">1.0</parameter>
+        </populationModel>
+    </init>
+
+    <distribution id="posterior" spec="util.CompoundDistribution">
+        <distribution id="prior" spec="util.CompoundDistribution">
+            <distribution id="FBD.t:data_coelacanths_morphology-Torino-etal_matrix" spec="beast.evolution.speciation.SABirthDeathModel" conditionOnRhoSampling="true" diversificationRate="@diversificationRateFBD.t:data_coelacanths_morphology-Torino-etal_matrix" origin="@originFBD.t:data_coelacanths_morphology-Torino-etal_matrix" samplingProportion="@samplingProportionFBD.t:data_coelacanths_morphology-Torino-etal_matrix" tree="@Tree.t:data_coelacanths_morphology-Torino-etal_matrix" turnover="@turnoverFBD.t:data_coelacanths_morphology-Torino-etal_matrix">
+                <parameter id="rFBD.t:data_coelacanths_morphology-Torino-etal_matrix" spec="parameter.RealParameter" lower="0.0" name="removalProbability" upper="1.0">1.0</parameter>
+                <parameter id="rhoFBD.t:data_coelacanths_morphology-Torino-etal_matrix" spec="parameter.RealParameter" estimate="false" lower="0.0" name="rho" upper="1.0">1.0</parameter>
+            </distribution>
+            <prior id="diversificationRatePriorFBD.t:data_coelacanths_morphology-Torino-etal_matrix" name="distribution" x="@diversificationRateFBD.t:data_coelacanths_morphology-Torino-etal_matrix">
+                <LogNormal id="LogNormalDistributionModel.0" name="distr">
+                    <parameter id="RealParameter.7" spec="parameter.RealParameter" estimate="false" name="M">1.0</parameter>
+                    <parameter id="RealParameter.8" spec="parameter.RealParameter" estimate="false" lower="0.0" name="S" upper="5.0">1.25</parameter>
+                </LogNormal>
+            </prior>
+            <prior id="GammaShapePrior.s:data_coelacanths_morphology-Torino-etal_matrix2" name="distribution" x="@gammaShape.s:data_coelacanths_morphology-Torino-etal_matrix2">
+                <Exponential id="Exponential.0" name="distr">
+                    <parameter id="RealParameter.0" spec="parameter.RealParameter" lower="0.0" name="mean" upper="0.0">1.0</parameter>
+                </Exponential>
+            </prior>
+            <prior id="GammaShapePrior.s:data_coelacanths_morphology-Torino-etal_matrix3" name="distribution" x="@gammaShape.s:data_coelacanths_morphology-Torino-etal_matrix3">
+                <Exponential id="Exponential.1" name="distr">
+                    <parameter id="RealParameter.1" spec="parameter.RealParameter" lower="0.0" name="mean" upper="0.0">1.0</parameter>
+                </Exponential>
+            </prior>
+            <prior id="GammaShapePrior.s:data_coelacanths_morphology-Torino-etal_matrix4" name="distribution" x="@gammaShape.s:data_coelacanths_morphology-Torino-etal_matrix4">
+                <Exponential id="Exponential.2" name="distr">
+                    <parameter id="RealParameter.2" spec="parameter.RealParameter" lower="0.0" name="mean" upper="0.0">1.0</parameter>
+                </Exponential>
+            </prior>
+            <prior id="GammaShapePrior.s:data_coelacanths_morphology-Torino-etal_matrix5" name="distribution" x="@gammaShape.s:data_coelacanths_morphology-Torino-etal_matrix5">
+                <Exponential id="Exponential.3" name="distr">
+                    <parameter id="RealParameter.3" spec="parameter.RealParameter" lower="0.0" name="mean" upper="0.0">1.0</parameter>
+                </Exponential>
+            </prior>
+            <prior id="originPriorFBD.t:data_coelacanths_morphology-Torino-etal_matrix" name="distribution" x="@originFBD.t:data_coelacanths_morphology-Torino-etal_matrix">
+                <Uniform id="Uniform.3" name="distr" upper="Infinity"/>
+            </prior>
+            <prior id="samplingProportionPriorFBD.t:data_coelacanths_morphology-Torino-etal_matrix" name="distribution" x="@samplingProportionFBD.t:data_coelacanths_morphology-Torino-etal_matrix">
+                <Uniform id="Uniform.6" name="distr"/>
+            </prior>
+            <prior id="turnoverPriorFBD.t:data_coelacanths_morphology-Torino-etal_matrix" name="distribution" x="@turnoverFBD.t:data_coelacanths_morphology-Torino-etal_matrix">
+                <Uniform id="Uniform.5" name="distr"/>
+            </prior>
+            <prior id="MeanRatePrior.c:data_coelacanths_morphology-Torino-etal_matrix" name="distribution" x="@ucldMean.c:data_coelacanths_morphology-Torino-etal_matrix">
+                <LogNormal id="LogNormalDistributionModel.1" name="distr">
+                    <parameter id="RealParameter.9" spec="parameter.RealParameter" estimate="false" name="M">1.0</parameter>
+                    <parameter id="RealParameter.10" spec="parameter.RealParameter" estimate="false" lower="0.0" name="S" upper="5.0">1.25</parameter>
+                </LogNormal>
+            </prior>
+            <prior id="ucldStdevPrior.c:data_coelacanths_morphology-Torino-etal_matrix" name="distribution" x="@ucldStdev.c:data_coelacanths_morphology-Torino-etal_matrix">
+                <Gamma id="Gamma.1" name="distr">
+                    <parameter id="RealParameter.11" spec="parameter.RealParameter" estimate="false" name="alpha">2.0</parameter>
+                    <parameter id="RealParameter.12" spec="parameter.RealParameter" estimate="false" name="beta">2.0</parameter>
+                </Gamma>
+            </prior>
+            <distribution id="Actinistia.prior" spec="beast.math.distributions.MRCAPrior" monophyletic="true" tree="@Tree.t:data_coelacanths_morphology-Torino-etal_matrix">
+                <taxonset id="Actinistia" spec="TaxonSet">
+                    <taxon id="Allenypterus" spec="Taxon"/>
+                    <taxon id="Atacamaia" spec="Taxon"/>
+                    <taxon id="Axelia" spec="Taxon"/>
+                    <taxon id="Axelrodichthys" spec="Taxon"/>
+                    <taxon id="Caridosuctor" spec="Taxon"/>
+                    <taxon id="Chinlea" spec="Taxon"/>
+                    <taxon id="Coccoderma" spec="Taxon"/>
+                    <taxon id="Coelacanthus" spec="Taxon"/>
+                    <taxon id="Diplocercides" spec="Taxon"/>
+                    <taxon id="Diplurus" spec="Taxon"/>
+                    <taxon id="Dobrogeria" spec="Taxon"/>
+                    <taxon id="Euporosteus" spec="Taxon"/>
+                    <taxon id="Foreyia" spec="Taxon"/>
+                    <taxon id="Garnbergia" spec="Taxon"/>
+                    <taxon id="Gavinia" spec="Taxon"/>
+                    <taxon id="Guizhoucoelacanthus" spec="Taxon"/>
+                    <taxon id="Hadronector" spec="Taxon"/>
+                    <taxon id="Heptanema" spec="Taxon"/>
+                    <taxon id="Holophagus" spec="Taxon"/>
+                    <taxon id="Holopterygius" spec="Taxon"/>
+                    <taxon id="Indocoelacanthus" spec="Taxon"/>
+                    <taxon id="Latimeria" spec="Taxon"/>
+                    <taxon id="Laugia" spec="Taxon"/>
+                    <taxon id="Libys" spec="Taxon"/>
+                    <taxon id="Lochmocercus" spec="Taxon"/>
+                    <taxon id="Lualabaea" spec="Taxon"/>
+                    <taxon id="Luopingcoelacanthus" spec="Taxon"/>
+                    <taxon id="Macropoma" spec="Taxon"/>
+                    <taxon id="Mawsonia" spec="Taxon"/>
+                    <taxon id="Megalocoelacanthus" spec="Taxon"/>
+                    <taxon id="Miguashaia" spec="Taxon"/>
+                    <taxon id="Parnaibaia" spec="Taxon"/>
+                    <taxon id="Piveteauia" spec="Taxon"/>
+                    <taxon id="Polyosteorhynchus" spec="Taxon"/>
+                    <taxon id="Rebellatrix" spec="Taxon"/>
+                    <taxon id="Reidus" spec="Taxon"/>
+                    <taxon id="Rhabdoderma" spec="Taxon"/>
+                    <taxon id="Sassenia" spec="Taxon"/>
+                    <taxon id="Serenichthys" spec="Taxon"/>
+                    <taxon id="Spermatodus" spec="Taxon"/>
+                    <taxon id="Styloichthys" spec="Taxon"/>
+                    <taxon id="Swenzia" spec="Taxon"/>
+                    <taxon id="Ticinepomis" spec="Taxon"/>
+                    <taxon id="Trachymetopon" spec="Taxon"/>
+                    <taxon id="Undina" spec="Taxon"/>
+                    <taxon id="Whiteia" spec="Taxon"/>
+                    <taxon id="Wimania" spec="Taxon"/>
+                    <taxon id="Yunnancoelacanthus" spec="Taxon"/>
+                </taxonset>
+            </distribution>
+            <distribution id="Alleny-Holo.prior" spec="beast.math.distributions.MRCAPrior" monophyletic="true" tree="@Tree.t:data_coelacanths_morphology-Torino-etal_matrix">
+                <taxonset id="Alleny-Holo" spec="TaxonSet">
+                    <taxon idref="Allenypterus"/>
+                    <taxon idref="Holopterygius"/>
+                </taxonset>
+            </distribution>
+            <distribution id="Root.prior" spec="beast.math.distributions.MRCAPrior" monophyletic="true" tree="@Tree.t:data_coelacanths_morphology-Torino-etal_matrix">
+                <taxonset id="Root" spec="TaxonSet">
+                    <taxon idref="Allenypterus"/>
+                    <taxon idref="Atacamaia"/>
+                    <taxon idref="Axelia"/>
+                    <taxon idref="Axelrodichthys"/>
+                    <taxon idref="Caridosuctor"/>
+                    <taxon idref="Chinlea"/>
+                    <taxon idref="Coccoderma"/>
+                    <taxon idref="Coelacanthus"/>
+                    <taxon idref="Diplocercides"/>
+                    <taxon idref="Diplurus"/>
+                    <taxon idref="Dobrogeria"/>
+                    <taxon idref="Euporosteus"/>
+                    <taxon idref="Foreyia"/>
+                    <taxon idref="Garnbergia"/>
+                    <taxon idref="Gavinia"/>
+                    <taxon idref="Guizhoucoelacanthus"/>
+                    <taxon idref="Hadronector"/>
+                    <taxon idref="Heptanema"/>
+                    <taxon idref="Holophagus"/>
+                    <taxon idref="Holopterygius"/>
+                    <taxon idref="Indocoelacanthus"/>
+                    <taxon idref="Latimeria"/>
+                    <taxon idref="Laugia"/>
+                    <taxon idref="Libys"/>
+                    <taxon idref="Lochmocercus"/>
+                    <taxon idref="Lualabaea"/>
+                    <taxon idref="Luopingcoelacanthus"/>
+                    <taxon idref="Macropoma"/>
+                    <taxon idref="Mawsonia"/>
+                    <taxon idref="Megalocoelacanthus"/>
+                    <taxon idref="Miguashaia"/>
+                    <taxon idref="Parnaibaia"/>
+                    <taxon idref="Piveteauia"/>
+                    <taxon idref="Polyosteorhynchus"/>
+                    <taxon id="Porolepiformes" spec="Taxon"/>
+                    <taxon idref="Rebellatrix"/>
+                    <taxon idref="Reidus"/>
+                    <taxon idref="Rhabdoderma"/>
+                    <taxon idref="Sassenia"/>
+                    <taxon idref="Serenichthys"/>
+                    <taxon idref="Spermatodus"/>
+                    <taxon idref="Styloichthys"/>
+                    <taxon idref="Swenzia"/>
+                    <taxon idref="Ticinepomis"/>
+                    <taxon idref="Trachymetopon"/>
+                    <taxon idref="Undina"/>
+                    <taxon idref="Whiteia"/>
+                    <taxon idref="Wimania"/>
+                    <taxon idref="Yunnancoelacanthus"/>
+                </taxonset>
+            </distribution>
+            <distribution id="actinopterygii.prior" spec="beast.math.distributions.MRCAPrior" tipsonly="true" tree="@Tree.t:data_coelacanths_morphology-Torino-etal_matrix">
+                <taxonset id="actinopterygii" spec="TaxonSet">
+                    <taxon id="Actinopterygii" spec="Taxon"/>
+                </taxonset>
+                <Uniform id="Uniform.56" lower="372.2" name="distr" upper="382.7"/>
+            </distribution>
+            <distribution id="allenypterus.prior" spec="beast.math.distributions.MRCAPrior" tipsonly="true" tree="@Tree.t:data_coelacanths_morphology-Torino-etal_matrix">
+                <taxonset id="allenypterus" spec="TaxonSet">
+                    <taxon idref="Allenypterus"/>
+                </taxonset>
+                <Uniform id="Uniform.55" lower="323.2" name="distr" upper="330.9"/>
+            </distribution>
+            <distribution id="atacamaia.prior" spec="beast.math.distributions.MRCAPrior" tipsonly="true" tree="@Tree.t:data_coelacanths_morphology-Torino-etal_matrix">
+                <taxonset id="atacamaia" spec="TaxonSet">
+                    <taxon idref="Atacamaia"/>
+                </taxonset>
+                <Uniform id="Uniform.54" lower="190.8" name="distr" upper="199.3"/>
+            </distribution>
+            <distribution id="axelia.prior" spec="beast.math.distributions.MRCAPrior" tipsonly="true" tree="@Tree.t:data_coelacanths_morphology-Torino-etal_matrix">
+                <taxonset id="axelia" spec="TaxonSet">
+                    <taxon idref="Axelia"/>
+                </taxonset>
+                <Uniform id="Uniform.53" lower="247.2" name="distr" upper="251.9"/>
+            </distribution>
+            <distribution id="axelrodichthys.prior" spec="beast.math.distributions.MRCAPrior" tipsonly="true" tree="@Tree.t:data_coelacanths_morphology-Torino-etal_matrix">
+                <taxonset id="axelrodichthys" spec="TaxonSet">
+                    <taxon idref="Axelrodichthys"/>
+                </taxonset>
+                <Uniform id="Uniform.52" lower="71.5" name="distr" upper="125.0"/>
+            </distribution>
+            <distribution id="caridosuctor.prior" spec="beast.math.distributions.MRCAPrior" tipsonly="true" tree="@Tree.t:data_coelacanths_morphology-Torino-etal_matrix">
+                <taxonset id="caridosuctor" spec="TaxonSet">
+                    <taxon idref="Caridosuctor"/>
+                </taxonset>
+                <Uniform id="Uniform.51" lower="323.2" name="distr" upper="330.9"/>
+            </distribution>
+            <distribution id="chinlea.prior" spec="beast.math.distributions.MRCAPrior" tipsonly="true" tree="@Tree.t:data_coelacanths_morphology-Torino-etal_matrix">
+                <taxonset id="chinlea" spec="TaxonSet">
+                    <taxon idref="Chinlea"/>
+                </taxonset>
+                <Uniform id="Uniform.50" lower="227.0" name="distr" upper="237.0"/>
+            </distribution>
+            <distribution id="coccoderma.prior" spec="beast.math.distributions.MRCAPrior" tipsonly="true" tree="@Tree.t:data_coelacanths_morphology-Torino-etal_matrix">
+                <taxonset id="coccoderma" spec="TaxonSet">
+                    <taxon idref="Coccoderma"/>
+                </taxonset>
+                <Uniform id="Uniform.49" lower="145.0" name="distr" upper="152.1"/>
+            </distribution>
+            <distribution id="coelacanthus.prior" spec="beast.math.distributions.MRCAPrior" tipsonly="true" tree="@Tree.t:data_coelacanths_morphology-Torino-etal_matrix">
+                <taxonset id="coelacanthus" spec="TaxonSet">
+                    <taxon idref="Coelacanthus"/>
+                </taxonset>
+                <Uniform id="Uniform.48" lower="259.1" name="distr" upper="272.95"/>
+            </distribution>
+            <distribution id="diplocercides.prior" spec="beast.math.distributions.MRCAPrior" tipsonly="true" tree="@Tree.t:data_coelacanths_morphology-Torino-etal_matrix">
+                <taxonset id="diplocercides" spec="TaxonSet">
+                    <taxon idref="Diplocercides"/>
+                </taxonset>
+                <Uniform id="Uniform.47" lower="330.9" name="distr" upper="382.7"/>
+            </distribution>
+            <distribution id="diplurus.prior" spec="beast.math.distributions.MRCAPrior" tipsonly="true" tree="@Tree.t:data_coelacanths_morphology-Torino-etal_matrix">
+                <taxonset id="diplurus" spec="TaxonSet">
+                    <taxon idref="Diplurus"/>
+                </taxonset>
+                <Uniform id="Uniform.46" lower="190.8" name="distr" upper="237.0"/>
+            </distribution>
+            <distribution id="dobrogeria.prior" spec="beast.math.distributions.MRCAPrior" tipsonly="true" tree="@Tree.t:data_coelacanths_morphology-Torino-etal_matrix">
+                <taxonset id="dobrogeria" spec="TaxonSet">
+                    <taxon idref="Dobrogeria"/>
+                </taxonset>
+                <Uniform id="Uniform.45" lower="247.2" name="distr" upper="251.2"/>
+            </distribution>
+            <distribution id="euporosteus.prior" spec="beast.math.distributions.MRCAPrior" tipsonly="true" tree="@Tree.t:data_coelacanths_morphology-Torino-etal_matrix">
+                <taxonset id="euporosteus" spec="TaxonSet">
+                    <taxon idref="Euporosteus"/>
+                </taxonset>
+                <Uniform id="Uniform.44" lower="382.7" name="distr" upper="410.8"/>
+            </distribution>
+            <distribution id="foreyia.prior" spec="beast.math.distributions.MRCAPrior" tipsonly="true" tree="@Tree.t:data_coelacanths_morphology-Torino-etal_matrix">
+                <taxonset id="foreyia" spec="TaxonSet">
+                    <taxon idref="Foreyia"/>
+                </taxonset>
+                <Uniform id="Uniform.43" lower="237.0" name="distr" upper="242.0"/>
+            </distribution>
+            <distribution id="garnbergia.prior" spec="beast.math.distributions.MRCAPrior" tipsonly="true" tree="@Tree.t:data_coelacanths_morphology-Torino-etal_matrix">
+                <taxonset id="garnbergia" spec="TaxonSet">
+                    <taxon idref="Garnbergia"/>
+                </taxonset>
+                <Uniform id="Uniform.42" lower="237.0" name="distr" upper="242.0"/>
+            </distribution>
+            <distribution id="gavinia.prior" spec="beast.math.distributions.MRCAPrior" tipsonly="true" tree="@Tree.t:data_coelacanths_morphology-Torino-etal_matrix">
+                <taxonset id="gavinia" spec="TaxonSet">
+                    <taxon idref="Gavinia"/>
+                </taxonset>
+                <Uniform id="Uniform.41" lower="382.7" name="distr" upper="387.7"/>
+            </distribution>
+            <distribution id="guizhoucoelacanthus.prior" spec="beast.math.distributions.MRCAPrior" tipsonly="true" tree="@Tree.t:data_coelacanths_morphology-Torino-etal_matrix">
+                <taxonset id="guizhoucoelacanthus" spec="TaxonSet">
+                    <taxon idref="Guizhoucoelacanthus"/>
+                </taxonset>
+                <Uniform id="Uniform.40" lower="227.0" name="distr" upper="242.0"/>
+            </distribution>
+            <distribution id="hadronector.prior" spec="beast.math.distributions.MRCAPrior" tipsonly="true" tree="@Tree.t:data_coelacanths_morphology-Torino-etal_matrix">
+                <taxonset id="hadronector" spec="TaxonSet">
+                    <taxon idref="Hadronector"/>
+                </taxonset>
+                <Uniform id="Uniform.39" lower="323.2" name="distr" upper="330.9"/>
+            </distribution>
+            <distribution id="heptanema.prior" spec="beast.math.distributions.MRCAPrior" tipsonly="true" tree="@Tree.t:data_coelacanths_morphology-Torino-etal_matrix">
+                <taxonset id="heptanema" spec="TaxonSet">
+                    <taxon idref="Heptanema"/>
+                </taxonset>
+                <Uniform id="Uniform.38" lower="237.0" name="distr" upper="242.0"/>
+            </distribution>
+            <distribution id="holophagus.prior" spec="beast.math.distributions.MRCAPrior" tipsonly="true" tree="@Tree.t:data_coelacanths_morphology-Torino-etal_matrix">
+                <taxonset id="holophagus" spec="TaxonSet">
+                    <taxon idref="Holophagus"/>
+                </taxonset>
+                <Uniform id="Uniform.37" lower="190.8" name="distr" upper="199.3"/>
+            </distribution>
+            <distribution id="holopterygius.prior" spec="beast.math.distributions.MRCAPrior" tipsonly="true" tree="@Tree.t:data_coelacanths_morphology-Torino-etal_matrix">
+                <taxonset id="holopterygius" spec="TaxonSet">
+                    <taxon idref="Holopterygius"/>
+                </taxonset>
+                <Uniform id="Uniform.36" lower="372.2" name="distr" upper="387.7"/>
+            </distribution>
+            <distribution id="indocoelacanthus.prior" spec="beast.math.distributions.MRCAPrior" tipsonly="true" tree="@Tree.t:data_coelacanths_morphology-Torino-etal_matrix">
+                <taxonset id="indocoelacanthus" spec="TaxonSet">
+                    <taxon idref="Indocoelacanthus"/>
+                </taxonset>
+                <Uniform id="Uniform.35" lower="174.1" name="distr" upper="201.3"/>
+            </distribution>
+            <distribution id="laugia.prior" spec="beast.math.distributions.MRCAPrior" tipsonly="true" tree="@Tree.t:data_coelacanths_morphology-Torino-etal_matrix">
+                <taxonset id="laugia" spec="TaxonSet">
+                    <taxon idref="Laugia"/>
+                </taxonset>
+                <Uniform id="Uniform.34" lower="247.2" name="distr" upper="251.9"/>
+            </distribution>
+            <distribution id="libys.prior" spec="beast.math.distributions.MRCAPrior" tipsonly="true" tree="@Tree.t:data_coelacanths_morphology-Torino-etal_matrix">
+                <taxonset id="libys" spec="TaxonSet">
+                    <taxon idref="Libys"/>
+                </taxonset>
+                <Uniform id="Uniform.33" lower="145.0" name="distr" upper="152.1"/>
+            </distribution>
+            <distribution id="lochmocercus.prior" spec="beast.math.distributions.MRCAPrior" tipsonly="true" tree="@Tree.t:data_coelacanths_morphology-Torino-etal_matrix">
+                <taxonset id="lochmocercus" spec="TaxonSet">
+                    <taxon idref="Lochmocercus"/>
+                </taxonset>
+                <Uniform id="Uniform.32" lower="323.2" name="distr" upper="330.9"/>
+            </distribution>
+            <distribution id="lualabaea.prior" spec="beast.math.distributions.MRCAPrior" tipsonly="true" tree="@Tree.t:data_coelacanths_morphology-Torino-etal_matrix">
+                <taxonset id="lualabaea" spec="TaxonSet">
+                    <taxon idref="Lualabaea"/>
+                </taxonset>
+                <Uniform id="Uniform.31" lower="152.1" name="distr" upper="157.3"/>
+            </distribution>
+            <distribution id="luopingcoelacanthus.prior" spec="beast.math.distributions.MRCAPrior" tipsonly="true" tree="@Tree.t:data_coelacanths_morphology-Torino-etal_matrix">
+                <taxonset id="luopingcoelacanthus" spec="TaxonSet">
+                    <taxon idref="Luopingcoelacanthus"/>
+                </taxonset>
+                <Uniform id="Uniform.30" lower="242.0" name="distr" upper="247.2"/>
+            </distribution>
+            <distribution id="macropoma.prior" spec="beast.math.distributions.MRCAPrior" tipsonly="true" tree="@Tree.t:data_coelacanths_morphology-Torino-etal_matrix">
+                <taxonset id="macropoma" spec="TaxonSet">
+                    <taxon idref="Macropoma"/>
+                </taxonset>
+                <Uniform id="Uniform.29" lower="89.8" name="distr" upper="113.0"/>
+            </distribution>
+            <distribution id="mawsonia.prior" spec="beast.math.distributions.MRCAPrior" tipsonly="true" tree="@Tree.t:data_coelacanths_morphology-Torino-etal_matrix">
+                <taxonset id="mawsonia" spec="TaxonSet">
+                    <taxon idref="Mawsonia"/>
+                </taxonset>
+                <Uniform id="Uniform.28" lower="93.9" name="distr" upper="157.3"/>
+            </distribution>
+            <distribution id="megalocoelacanthus.prior" spec="beast.math.distributions.MRCAPrior" tipsonly="true" tree="@Tree.t:data_coelacanths_morphology-Torino-etal_matrix">
+                <taxonset id="megalocoelacanthus" spec="TaxonSet">
+                    <taxon idref="Megalocoelacanthus"/>
+                </taxonset>
+                <Uniform id="Uniform.27" lower="72.1" name="distr" upper="86.3"/>
+            </distribution>
+            <distribution id="miguashaia.prior" spec="beast.math.distributions.MRCAPrior" tipsonly="true" tree="@Tree.t:data_coelacanths_morphology-Torino-etal_matrix">
+                <taxonset id="miguashaia" spec="TaxonSet">
+                    <taxon idref="Miguashaia"/>
+                </taxonset>
+                <Uniform id="Uniform.26" lower="372.2" name="distr" upper="387.7"/>
+            </distribution>
+            <distribution id="parnaibaia.prior" spec="beast.math.distributions.MRCAPrior" tipsonly="true" tree="@Tree.t:data_coelacanths_morphology-Torino-etal_matrix">
+                <taxonset id="parnaibaia" spec="TaxonSet">
+                    <taxon idref="Parnaibaia"/>
+                </taxonset>
+                <Uniform id="Uniform.25" lower="139.8" name="distr" upper="152.1"/>
+            </distribution>
+            <distribution id="piveteauia.prior" spec="beast.math.distributions.MRCAPrior" tipsonly="true" tree="@Tree.t:data_coelacanths_morphology-Torino-etal_matrix">
+                <taxonset id="piveteauia" spec="TaxonSet">
+                    <taxon idref="Piveteauia"/>
+                </taxonset>
+                <Uniform id="Uniform.24" lower="247.2" name="distr" upper="251.9"/>
+            </distribution>
+            <distribution id="polyosteorhynchus.prior" spec="beast.math.distributions.MRCAPrior" tipsonly="true" tree="@Tree.t:data_coelacanths_morphology-Torino-etal_matrix">
+                <taxonset id="polyosteorhynchus" spec="TaxonSet">
+                    <taxon idref="Polyosteorhynchus"/>
+                </taxonset>
+                <Uniform id="Uniform.23" lower="323.2" name="distr" upper="330.9"/>
+            </distribution>
+            <distribution id="porolepiformes.prior" spec="beast.math.distributions.MRCAPrior" tipsonly="true" tree="@Tree.t:data_coelacanths_morphology-Torino-etal_matrix">
+                <taxonset id="porolepiformes" spec="TaxonSet">
+                    <taxon idref="Porolepiformes"/>
+                </taxonset>
+                <Uniform id="Uniform.22" lower="393.3" name="distr" upper="410.8"/>
+            </distribution>
+            <distribution id="rebellatrix.prior" spec="beast.math.distributions.MRCAPrior" tipsonly="true" tree="@Tree.t:data_coelacanths_morphology-Torino-etal_matrix">
+                <taxonset id="rebellatrix" spec="TaxonSet">
+                    <taxon idref="Rebellatrix"/>
+                </taxonset>
+                <Uniform id="Uniform.21" lower="247.2" name="distr" upper="251.9"/>
+            </distribution>
+            <distribution id="reidus.prior" spec="beast.math.distributions.MRCAPrior" tipsonly="true" tree="@Tree.t:data_coelacanths_morphology-Torino-etal_matrix">
+                <taxonset id="reidus" spec="TaxonSet">
+                    <taxon idref="Reidus"/>
+                </taxonset>
+                <Uniform id="Uniform.20" lower="100.5" name="distr" upper="113.0"/>
+            </distribution>
+            <distribution id="rhabdoderma.prior" spec="beast.math.distributions.MRCAPrior" tipsonly="true" tree="@Tree.t:data_coelacanths_morphology-Torino-etal_matrix">
+                <taxonset id="rhabdoderma" spec="TaxonSet">
+                    <taxon idref="Rhabdoderma"/>
+                </taxonset>
+                <Uniform id="Uniform.19" lower="247.2" name="distr" upper="346.7"/>
+            </distribution>
+            <distribution id="sassenia.prior" spec="beast.math.distributions.MRCAPrior" tipsonly="true" tree="@Tree.t:data_coelacanths_morphology-Torino-etal_matrix">
+                <taxonset id="sassenia" spec="TaxonSet">
+                    <taxon idref="Sassenia"/>
+                </taxonset>
+                <Uniform id="Uniform.18" lower="247.2" name="distr" upper="251.9"/>
+            </distribution>
+            <distribution id="serenichthys.prior" spec="beast.math.distributions.MRCAPrior" tipsonly="true" tree="@Tree.t:data_coelacanths_morphology-Torino-etal_matrix">
+                <taxonset id="serenichthys" spec="TaxonSet">
+                    <taxon idref="Serenichthys"/>
+                </taxonset>
+                <Uniform id="Uniform.17" lower="358.9" name="distr" upper="372.2"/>
+            </distribution>
+            <distribution id="spermatodus.prior" spec="beast.math.distributions.MRCAPrior" tipsonly="true" tree="@Tree.t:data_coelacanths_morphology-Torino-etal_matrix">
+                <taxonset id="spermatodus" spec="TaxonSet">
+                    <taxon idref="Spermatodus"/>
+                </taxonset>
+                <Uniform id="Uniform.16" lower="270.6" name="distr" upper="298.9"/>
+            </distribution>
+            <distribution id="styloichthys.prior" spec="beast.math.distributions.MRCAPrior" tipsonly="true" tree="@Tree.t:data_coelacanths_morphology-Torino-etal_matrix">
+                <taxonset id="styloichthys" spec="TaxonSet">
+                    <taxon idref="Styloichthys"/>
+                </taxonset>
+                <Uniform id="Uniform.15" lower="410.8" name="distr" upper="419.2"/>
+            </distribution>
+            <distribution id="swenzia.prior" spec="beast.math.distributions.MRCAPrior" tipsonly="true" tree="@Tree.t:data_coelacanths_morphology-Torino-etal_matrix">
+                <taxonset id="swenzia" spec="TaxonSet">
+                    <taxon idref="Swenzia"/>
+                </taxonset>
+                <Uniform id="Uniform.14" lower="157.3" name="distr" upper="163.5"/>
+            </distribution>
+            <distribution id="ticinepomis.prior" spec="beast.math.distributions.MRCAPrior" tipsonly="true" tree="@Tree.t:data_coelacanths_morphology-Torino-etal_matrix">
+                <taxonset id="ticinepomis" spec="TaxonSet">
+                    <taxon idref="Ticinepomis"/>
+                </taxonset>
+                <Uniform id="Uniform.13" lower="237.0" name="distr" upper="242.0"/>
+            </distribution>
+            <distribution id="trachymetopon.prior" spec="beast.math.distributions.MRCAPrior" tipsonly="true" tree="@Tree.t:data_coelacanths_morphology-Torino-etal_matrix">
+                <taxonset id="trachymetopon" spec="TaxonSet">
+                    <taxon idref="Trachymetopon"/>
+                </taxonset>
+                <Uniform id="Uniform.12" lower="163.5" name="distr" upper="199.3"/>
+            </distribution>
+            <distribution id="undina.prior" spec="beast.math.distributions.MRCAPrior" tipsonly="true" tree="@Tree.t:data_coelacanths_morphology-Torino-etal_matrix">
+                <taxonset id="undina" spec="TaxonSet">
+                    <taxon idref="Undina"/>
+                </taxonset>
+                <Uniform id="Uniform.11" lower="145.0" name="distr" upper="152.1"/>
+            </distribution>
+            <distribution id="whiteia.prior" spec="beast.math.distributions.MRCAPrior" tipsonly="true" tree="@Tree.t:data_coelacanths_morphology-Torino-etal_matrix">
+                <taxonset id="whiteia" spec="TaxonSet">
+                    <taxon idref="Whiteia"/>
+                </taxonset>
+                <Uniform id="Uniform.10" lower="247.2" name="distr" upper="251.9"/>
+            </distribution>
+            <distribution id="wimania.prior" spec="beast.math.distributions.MRCAPrior" tipsonly="true" tree="@Tree.t:data_coelacanths_morphology-Torino-etal_matrix">
+                <taxonset id="wimania" spec="TaxonSet">
+                    <taxon idref="Wimania"/>
+                </taxonset>
+                <Uniform id="Uniform.9" lower="247.2" name="distr" upper="251.9"/>
+            </distribution>
+            <distribution id="yunnanocoelacanthus.prior" spec="beast.math.distributions.MRCAPrior" tipsonly="true" tree="@Tree.t:data_coelacanths_morphology-Torino-etal_matrix">
+                <taxonset id="yunnanocoelacanthus" spec="TaxonSet">
+                    <taxon idref="Yunnancoelacanthus"/>
+                </taxonset>
+                <Uniform id="Uniform.8" lower="242.0" name="distr" upper="247.2"/>
+            </distribution>
+        </distribution>
+        <distribution id="likelihood" spec="util.CompoundDistribution" useThreads="true">
+            <distribution id="morphTreeLikelihood.data_coelacanths_morphology-Torino-etal_matrix2" spec="TreeLikelihood" data="@data_coelacanths_morphology-Torino-etal_matrix2" tree="@Tree.t:data_coelacanths_morphology-Torino-etal_matrix">
+                <siteModel id="morphSiteModel.s:data_coelacanths_morphology-Torino-etal_matrix2" spec="SiteModel" gammaCategoryCount="4" shape="@gammaShape.s:data_coelacanths_morphology-Torino-etal_matrix2">
+                    <parameter id="mutationRate.s:data_coelacanths_morphology-Torino-etal_matrix2" spec="parameter.RealParameter" estimate="false" name="mutationRate">1.0</parameter>
+                    <substModel id="LewisMK.s:data_coelacanths_morphology-Torino-etal_matrix2" spec="LewisMK" datatype="@morphDataType.data_coelacanths_morphology-Torino-etal_matrix2"/>
+                </siteModel>
+                <branchRateModel id="RelaxedClock.c:data_coelacanths_morphology-Torino-etal_matrix" spec="beast.evolution.branchratemodel.UCRelaxedClockModel" clock.rate="@ucldMean.c:data_coelacanths_morphology-Torino-etal_matrix" rateCategories="@rateCategories.c:data_coelacanths_morphology-Torino-etal_matrix" tree="@Tree.t:data_coelacanths_morphology-Torino-etal_matrix">
+                    <LogNormal id="LogNormalDistributionModel.c:data_coelacanths_morphology-Torino-etal_matrix" S="@ucldStdev.c:data_coelacanths_morphology-Torino-etal_matrix" meanInRealSpace="true" name="distr">
+                        <parameter id="RealParameter.4" spec="parameter.RealParameter" estimate="false" lower="0.0" name="M" upper="1.0">1.0</parameter>
+                    </LogNormal>
+                </branchRateModel>
+            </distribution>
+            <distribution id="morphTreeLikelihood.data_coelacanths_morphology-Torino-etal_matrix3" spec="TreeLikelihood" branchRateModel="@RelaxedClock.c:data_coelacanths_morphology-Torino-etal_matrix" tree="@Tree.t:data_coelacanths_morphology-Torino-etal_matrix">
+                <data
+id="data_coelacanths_morphology-Torino-etal_matrix3"
+spec="FilteredAlignment"
+ascertained="true"
+data="@data_coelacanths_morphology-Torino-etal_matrix"
+excludefrom="9"
+excludeto="12"
+filter="1-2,27,44,49-50,55,68,96,111-113">
+                    <userDataType id="morphDataType.data_coelacanths_morphology-Torino-etal_matrix3" spec="beast.evolution.datatype.StandardData" ambiguities="" nrOfStates="3"/>
+                </data>
+                <siteModel id="morphSiteModel.s:data_coelacanths_morphology-Torino-etal_matrix3" spec="SiteModel" gammaCategoryCount="4" shape="@gammaShape.s:data_coelacanths_morphology-Torino-etal_matrix3">
+                    <parameter id="mutationRate.s:data_coelacanths_morphology-Torino-etal_matrix3" spec="parameter.RealParameter" estimate="false" name="mutationRate">1.0</parameter>
+                    <substModel id="LewisMK.s:data_coelacanths_morphology-Torino-etal_matrix3" spec="LewisMK" datatype="@morphDataType.data_coelacanths_morphology-Torino-etal_matrix3"/>
+                </siteModel>
+            </distribution>
+            <distribution id="morphTreeLikelihood.data_coelacanths_morphology-Torino-etal_matrix4" spec="TreeLikelihood" branchRateModel="@RelaxedClock.c:data_coelacanths_morphology-Torino-etal_matrix" tree="@Tree.t:data_coelacanths_morphology-Torino-etal_matrix">
+                <data
+id="data_coelacanths_morphology-Torino-etal_matrix4"
+spec="FilteredAlignment"
+ascertained="true"
+data="@data_coelacanths_morphology-Torino-etal_matrix"
+excludefrom="1"
+excludeto="5"
+filter="17,111-114">
+                    <userDataType id="morphDataType.data_coelacanths_morphology-Torino-etal_matrix4" spec="beast.evolution.datatype.StandardData" ambiguities="" nrOfStates="4"/>
+                </data>
+                <siteModel id="morphSiteModel.s:data_coelacanths_morphology-Torino-etal_matrix4" spec="SiteModel" gammaCategoryCount="4" shape="@gammaShape.s:data_coelacanths_morphology-Torino-etal_matrix4">
+                    <parameter id="mutationRate.s:data_coelacanths_morphology-Torino-etal_matrix4" spec="parameter.RealParameter" estimate="false" name="mutationRate">1.0</parameter>
+                    <substModel id="LewisMK.s:data_coelacanths_morphology-Torino-etal_matrix4" spec="LewisMK" datatype="@morphDataType.data_coelacanths_morphology-Torino-etal_matrix4"/>
+                </siteModel>
+            </distribution>
+            <distribution id="morphTreeLikelihood.data_coelacanths_morphology-Torino-etal_matrix5" spec="TreeLikelihood" branchRateModel="@RelaxedClock.c:data_coelacanths_morphology-Torino-etal_matrix" tree="@Tree.t:data_coelacanths_morphology-Torino-etal_matrix">
+                <data
+id="data_coelacanths_morphology-Torino-etal_matrix5"
+spec="FilteredAlignment"
+ascertained="true"
+data="@data_coelacanths_morphology-Torino-etal_matrix"
+excludefrom="1"
+excludeto="6"
+filter="23,111-115">
+                    <userDataType id="morphDataType.data_coelacanths_morphology-Torino-etal_matrix5" spec="beast.evolution.datatype.StandardData" ambiguities="" nrOfStates="5"/>
+                </data>
+                <siteModel id="morphSiteModel.s:data_coelacanths_morphology-Torino-etal_matrix5" spec="SiteModel" gammaCategoryCount="4" shape="@gammaShape.s:data_coelacanths_morphology-Torino-etal_matrix5">
+                    <parameter id="mutationRate.s:data_coelacanths_morphology-Torino-etal_matrix5" spec="parameter.RealParameter" estimate="false" name="mutationRate">1.0</parameter>
+                    <substModel id="LewisMK.s:data_coelacanths_morphology-Torino-etal_matrix5" spec="LewisMK" datatype="@morphDataType.data_coelacanths_morphology-Torino-etal_matrix5"/>
+                </siteModel>
+            </distribution>
+        </distribution>
+    </distribution>
+
+    <operator id="gammaShapeScaler.s:data_coelacanths_morphology-Torino-etal_matrix2" spec="ScaleOperator" parameter="@gammaShape.s:data_coelacanths_morphology-Torino-etal_matrix2" scaleFactor="0.5" weight="0.1"/>
+
+    <operator id="gammaShapeScaler.s:data_coelacanths_morphology-Torino-etal_matrix3" spec="ScaleOperator" parameter="@gammaShape.s:data_coelacanths_morphology-Torino-etal_matrix3" scaleFactor="0.5" weight="0.1"/>
+
+    <operator id="gammaShapeScaler.s:data_coelacanths_morphology-Torino-etal_matrix4" spec="ScaleOperator" parameter="@gammaShape.s:data_coelacanths_morphology-Torino-etal_matrix4" scaleFactor="0.5" weight="0.1"/>
+
+    <operator id="gammaShapeScaler.s:data_coelacanths_morphology-Torino-etal_matrix5" spec="ScaleOperator" parameter="@gammaShape.s:data_coelacanths_morphology-Torino-etal_matrix5" scaleFactor="0.5" weight="0.1"/>
+
+    <operator id="ucldMeanScaler.c:data_coelacanths_morphology-Torino-etal_matrix" spec="ScaleOperator" parameter="@ucldMean.c:data_coelacanths_morphology-Torino-etal_matrix" scaleFactor="0.5" weight="1.0"/>
+
+    <operator id="ucldStdevScaler.c:data_coelacanths_morphology-Torino-etal_matrix" spec="ScaleOperator" parameter="@ucldStdev.c:data_coelacanths_morphology-Torino-etal_matrix" scaleFactor="0.5" weight="3.0"/>
+
+    <operator id="CategoriesRandomWalk.c:data_coelacanths_morphology-Torino-etal_matrix" spec="IntRandomWalkOperator" parameter="@rateCategories.c:data_coelacanths_morphology-Torino-etal_matrix" weight="10.0" windowSize="1"/>
+
+    <operator id="CategoriesSwapOperator.c:data_coelacanths_morphology-Torino-etal_matrix" spec="SwapOperator" intparameter="@rateCategories.c:data_coelacanths_morphology-Torino-etal_matrix" weight="10.0"/>
+
+    <operator id="CategoriesUniform.c:data_coelacanths_morphology-Torino-etal_matrix" spec="UniformOperator" parameter="@rateCategories.c:data_coelacanths_morphology-Torino-etal_matrix" weight="10.0"/>
+
+    <operator id="relaxedUpDownOperator.c:data_coelacanths_morphology-Torino-etal_matrix" spec="UpDownOperator" scaleFactor="0.901" weight="3.0">
+        <up idref="ucldMean.c:data_coelacanths_morphology-Torino-etal_matrix"/>
+        <down idref="Tree.t:data_coelacanths_morphology-Torino-etal_matrix"/>
+    </operator>
+
+    <operator id="originScalerFBD.t:data_coelacanths_morphology-Torino-etal_matrix" spec="ScaleOperator" parameter="@originFBD.t:data_coelacanths_morphology-Torino-etal_matrix" weight="3.0"/>
+
+    <operator id="divRateScalerFBD.t:data_coelacanths_morphology-Torino-etal_matrix" spec="ScaleOperator" parameter="@diversificationRateFBD.t:data_coelacanths_morphology-Torino-etal_matrix" weight="10.0"/>
+
+    <operator id="turnoverScalerFBD.t:data_coelacanths_morphology-Torino-etal_matrix" spec="ScaleOperator" parameter="@turnoverFBD.t:data_coelacanths_morphology-Torino-etal_matrix" weight="10.0"/>
+
+    <operator id="samplingPScalerFBD.t:data_coelacanths_morphology-Torino-etal_matrix" spec="ScaleOperator" parameter="@samplingProportionFBD.t:data_coelacanths_morphology-Torino-etal_matrix" weight="10.0"/>
+
+    <operator id="LeafToSAFBD.t:data_coelacanths_morphology-Torino-etal_matrix" spec="LeafToSampledAncestorJump" tree="@Tree.t:data_coelacanths_morphology-Torino-etal_matrix" weight="10.0"/>
+
+    <operator id="SAWilsonBaldingFBD.t:data_coelacanths_morphology-Torino-etal_matrix" spec="SAWilsonBalding" tree="@Tree.t:data_coelacanths_morphology-Torino-etal_matrix" weight="10.0"/>
+
+    <operator id="SAWideFBD.t:data_coelacanths_morphology-Torino-etal_matrix" spec="SAExchange" isNarrow="false" tree="@Tree.t:data_coelacanths_morphology-Torino-etal_matrix" weight="10.0"/>
+
+    <operator id="SANarrowFBD.t:data_coelacanths_morphology-Torino-etal_matrix" spec="SAExchange" tree="@Tree.t:data_coelacanths_morphology-Torino-etal_matrix" weight="10.0"/>
+
+    <operator id="SAUniformOperatorFBD.t:data_coelacanths_morphology-Torino-etal_matrix" spec="SAUniform" tree="@Tree.t:data_coelacanths_morphology-Torino-etal_matrix" weight="20.0"/>
+
+    <operator id="SATreeRootScalerFBD.t:data_coelacanths_morphology-Torino-etal_matrix" spec="SAScaleOperator" rootOnly="true" scaleFactor="0.95" tree="@Tree.t:data_coelacanths_morphology-Torino-etal_matrix" weight="1.0"/>
+
+    <operator id="SATreeScalerFBD.t:data_coelacanths_morphology-Torino-etal_matrix" spec="SAScaleOperator" scaleFactor="0.984" tree="@Tree.t:data_coelacanths_morphology-Torino-etal_matrix" weight="3.0"/>
+
+    <operator id="tipDatesSampler.yunnanocoelacanthus" spec="TipDatesRandomWalker" taxonset="@yunnanocoelacanthus" tree="@Tree.t:data_coelacanths_morphology-Torino-etal_matrix" weight="1.0" windowSize="1.0"/>
+
+    <operator id="tipDatesSampler.wimania" spec="TipDatesRandomWalker" taxonset="@wimania" tree="@Tree.t:data_coelacanths_morphology-Torino-etal_matrix" weight="1.0" windowSize="1.0"/>
+
+    <operator id="tipDatesSampler.whiteia" spec="TipDatesRandomWalker" taxonset="@whiteia" tree="@Tree.t:data_coelacanths_morphology-Torino-etal_matrix" weight="1.0" windowSize="1.0"/>
+
+    <operator id="tipDatesSampler.undina" spec="TipDatesRandomWalker" taxonset="@undina" tree="@Tree.t:data_coelacanths_morphology-Torino-etal_matrix" weight="1.0" windowSize="1.0"/>
+
+    <operator id="tipDatesSampler.trachymetopon" spec="TipDatesRandomWalker" taxonset="@trachymetopon" tree="@Tree.t:data_coelacanths_morphology-Torino-etal_matrix" weight="1.0" windowSize="1.0"/>
+
+    <operator id="tipDatesSampler.ticinepomis" spec="TipDatesRandomWalker" taxonset="@ticinepomis" tree="@Tree.t:data_coelacanths_morphology-Torino-etal_matrix" weight="1.0" windowSize="1.0"/>
+
+    <operator id="tipDatesSampler.swenzia" spec="TipDatesRandomWalker" taxonset="@swenzia" tree="@Tree.t:data_coelacanths_morphology-Torino-etal_matrix" weight="1.0" windowSize="1.0"/>
+
+    <operator id="tipDatesSampler.styloichthys" spec="TipDatesRandomWalker" taxonset="@styloichthys" tree="@Tree.t:data_coelacanths_morphology-Torino-etal_matrix" weight="1.0" windowSize="1.0"/>
+
+    <operator id="tipDatesSampler.spermatodus" spec="TipDatesRandomWalker" taxonset="@spermatodus" tree="@Tree.t:data_coelacanths_morphology-Torino-etal_matrix" weight="1.0" windowSize="1.0"/>
+
+    <operator id="tipDatesSampler.serenichthys" spec="TipDatesRandomWalker" taxonset="@serenichthys" tree="@Tree.t:data_coelacanths_morphology-Torino-etal_matrix" weight="1.0" windowSize="1.0"/>
+
+    <operator id="tipDatesSampler.sassenia" spec="TipDatesRandomWalker" taxonset="@sassenia" tree="@Tree.t:data_coelacanths_morphology-Torino-etal_matrix" weight="1.0" windowSize="1.0"/>
+
+    <operator id="tipDatesSampler.rhabdoderma" spec="TipDatesRandomWalker" taxonset="@rhabdoderma" tree="@Tree.t:data_coelacanths_morphology-Torino-etal_matrix" weight="1.0" windowSize="80.808"/>
+
+    <operator id="tipDatesSampler.reidus" spec="TipDatesRandomWalker" taxonset="@reidus" tree="@Tree.t:data_coelacanths_morphology-Torino-etal_matrix" weight="1.0" windowSize="1.0"/>
+
+    <operator id="tipDatesSampler.rebellatrix" spec="TipDatesRandomWalker" taxonset="@rebellatrix" tree="@Tree.t:data_coelacanths_morphology-Torino-etal_matrix" weight="1.0" windowSize="1.0"/>
+
+    <operator id="tipDatesSampler.porolepiformes" spec="TipDatesRandomWalker" taxonset="@porolepiformes" tree="@Tree.t:data_coelacanths_morphology-Torino-etal_matrix" weight="1.0" windowSize="1.0"/>
+
+    <operator id="tipDatesSampler.polyosteorhynchus" spec="TipDatesRandomWalker" taxonset="@polyosteorhynchus" tree="@Tree.t:data_coelacanths_morphology-Torino-etal_matrix" weight="1.0" windowSize="1.0"/>
+
+    <operator id="tipDatesSampler.piveteauia" spec="TipDatesRandomWalker" taxonset="@piveteauia" tree="@Tree.t:data_coelacanths_morphology-Torino-etal_matrix" weight="1.0" windowSize="1.0"/>
+
+    <operator id="tipDatesSampler.parnaibaia" spec="TipDatesRandomWalker" taxonset="@parnaibaia" tree="@Tree.t:data_coelacanths_morphology-Torino-etal_matrix" weight="1.0" windowSize="1.0"/>
+
+    <operator id="tipDatesSampler.miguashaia" spec="TipDatesRandomWalker" taxonset="@miguashaia" tree="@Tree.t:data_coelacanths_morphology-Torino-etal_matrix" weight="1.0" windowSize="1.0"/>
+
+    <operator id="tipDatesSampler.megalocoelacanthus" spec="TipDatesRandomWalker" taxonset="@megalocoelacanthus" tree="@Tree.t:data_coelacanths_morphology-Torino-etal_matrix" weight="1.0" windowSize="1.0"/>
+
+    <operator id="tipDatesSampler.mawsonia" spec="TipDatesRandomWalker" taxonset="@mawsonia" tree="@Tree.t:data_coelacanths_morphology-Torino-etal_matrix" weight="1.0" windowSize="1.0"/>
+
+    <operator id="tipDatesSampler.macropoma" spec="TipDatesRandomWalker" taxonset="@macropoma" tree="@Tree.t:data_coelacanths_morphology-Torino-etal_matrix" weight="1.0" windowSize="1.0"/>
+
+    <operator id="tipDatesSampler.luopingcoelacanthus" spec="TipDatesRandomWalker" taxonset="@luopingcoelacanthus" tree="@Tree.t:data_coelacanths_morphology-Torino-etal_matrix" weight="1.0" windowSize="1.0"/>
+
+    <operator id="tipDatesSampler.lualabaea" spec="TipDatesRandomWalker" taxonset="@lualabaea" tree="@Tree.t:data_coelacanths_morphology-Torino-etal_matrix" weight="1.0" windowSize="1.0"/>
+
+    <operator id="tipDatesSampler.lochmocercus" spec="TipDatesRandomWalker" taxonset="@lochmocercus" tree="@Tree.t:data_coelacanths_morphology-Torino-etal_matrix" weight="1.0" windowSize="1.0"/>
+
+    <operator id="tipDatesSampler.libys" spec="TipDatesRandomWalker" taxonset="@libys" tree="@Tree.t:data_coelacanths_morphology-Torino-etal_matrix" weight="1.0" windowSize="1.0"/>
+
+    <operator id="tipDatesSampler.laugia" spec="TipDatesRandomWalker" taxonset="@laugia" tree="@Tree.t:data_coelacanths_morphology-Torino-etal_matrix" weight="1.0" windowSize="1.0"/>
+
+    <operator id="tipDatesSampler.indocoelacanthus" spec="TipDatesRandomWalker" taxonset="@indocoelacanthus" tree="@Tree.t:data_coelacanths_morphology-Torino-etal_matrix" weight="1.0" windowSize="1.0"/>
+
+    <operator id="tipDatesSampler.holopterygius" spec="TipDatesRandomWalker" taxonset="@holopterygius" tree="@Tree.t:data_coelacanths_morphology-Torino-etal_matrix" weight="1.0" windowSize="35.944"/>
+
+    <operator id="tipDatesSampler.holophagus" spec="TipDatesRandomWalker" taxonset="@holophagus" tree="@Tree.t:data_coelacanths_morphology-Torino-etal_matrix" weight="1.0" windowSize="1.0"/>
+
+    <operator id="tipDatesSampler.heptanema" spec="TipDatesRandomWalker" taxonset="@heptanema" tree="@Tree.t:data_coelacanths_morphology-Torino-etal_matrix" weight="1.0" windowSize="1.0"/>
+
+    <operator id="tipDatesSampler.hadronector" spec="TipDatesRandomWalker" taxonset="@hadronector" tree="@Tree.t:data_coelacanths_morphology-Torino-etal_matrix" weight="1.0" windowSize="1.0"/>
+
+    <operator id="tipDatesSampler.guizhoucoelacanthus" spec="TipDatesRandomWalker" taxonset="@guizhoucoelacanthus" tree="@Tree.t:data_coelacanths_morphology-Torino-etal_matrix" weight="1.0" windowSize="1.0"/>
+
+    <operator id="tipDatesSampler.gavinia" spec="TipDatesRandomWalker" taxonset="@gavinia" tree="@Tree.t:data_coelacanths_morphology-Torino-etal_matrix" weight="1.0" windowSize="1.0"/>
+
+    <operator id="tipDatesSampler.garnbergia" spec="TipDatesRandomWalker" taxonset="@garnbergia" tree="@Tree.t:data_coelacanths_morphology-Torino-etal_matrix" weight="1.0" windowSize="1.0"/>
+
+    <operator id="tipDatesSampler.foreyia" spec="TipDatesRandomWalker" taxonset="@foreyia" tree="@Tree.t:data_coelacanths_morphology-Torino-etal_matrix" weight="1.0" windowSize="1.0"/>
+
+    <operator id="tipDatesSampler.euporosteus" spec="TipDatesRandomWalker" taxonset="@euporosteus" tree="@Tree.t:data_coelacanths_morphology-Torino-etal_matrix" weight="1.0" windowSize="1.0"/>
+
+    <operator id="tipDatesSampler.dobrogeria" spec="TipDatesRandomWalker" taxonset="@dobrogeria" tree="@Tree.t:data_coelacanths_morphology-Torino-etal_matrix" weight="1.0" windowSize="1.0"/>
+
+    <operator id="tipDatesSampler.diplurus" spec="TipDatesRandomWalker" taxonset="@diplurus" tree="@Tree.t:data_coelacanths_morphology-Torino-etal_matrix" weight="1.0" windowSize="31.723"/>
+
+    <operator id="tipDatesSampler.diplocercides" spec="TipDatesRandomWalker" taxonset="@diplocercides" tree="@Tree.t:data_coelacanths_morphology-Torino-etal_matrix" weight="1.0" windowSize="1.0"/>
+
+    <operator id="tipDatesSampler.coelacanthus" spec="TipDatesRandomWalker" taxonset="@coelacanthus" tree="@Tree.t:data_coelacanths_morphology-Torino-etal_matrix" weight="1.0" windowSize="1.0"/>
+
+    <operator id="tipDatesSampler.coccoderma" spec="TipDatesRandomWalker" taxonset="@coccoderma" tree="@Tree.t:data_coelacanths_morphology-Torino-etal_matrix" weight="1.0" windowSize="1.0"/>
+
+    <operator id="tipDatesSampler.chinlea" spec="TipDatesRandomWalker" taxonset="@chinlea" tree="@Tree.t:data_coelacanths_morphology-Torino-etal_matrix" weight="1.0" windowSize="1.0"/>
+
+    <operator id="tipDatesSampler.caridosuctor" spec="TipDatesRandomWalker" taxonset="@caridosuctor" tree="@Tree.t:data_coelacanths_morphology-Torino-etal_matrix" weight="1.0" windowSize="1.0"/>
+
+    <operator id="tipDatesSampler.axelrodichthys" spec="TipDatesRandomWalker" taxonset="@axelrodichthys" tree="@Tree.t:data_coelacanths_morphology-Torino-etal_matrix" weight="1.0" windowSize="1.0"/>
+
+    <operator id="tipDatesSampler.axelia" spec="TipDatesRandomWalker" taxonset="@axelia" tree="@Tree.t:data_coelacanths_morphology-Torino-etal_matrix" weight="1.0" windowSize="1.0"/>
+
+    <operator id="tipDatesSampler.atacamaia" spec="TipDatesRandomWalker" taxonset="@atacamaia" tree="@Tree.t:data_coelacanths_morphology-Torino-etal_matrix" weight="1.0" windowSize="1.0"/>
+
+    <operator id="tipDatesSampler.allenypterus" spec="TipDatesRandomWalker" taxonset="@allenypterus" tree="@Tree.t:data_coelacanths_morphology-Torino-etal_matrix" weight="1.0" windowSize="1.0"/>
+
+    <operator id="tipDatesSampler.actinopterygii" spec="TipDatesRandomWalker" taxonset="@actinopterygii" tree="@Tree.t:data_coelacanths_morphology-Torino-etal_matrix" weight="1.0" windowSize="1.0"/>
+
+    <operator id="gogo" spec="FossilSiteDateRandomWalker" tree="@Tree.t:data_coelacanths_morphology-Torino-etal_matrix" weight="1.0" windowSize="2.0">
+        <FossilSiteSamplingDates id="gogo_age" spec="beast.evolution.tree.FossilSiteSamplingDate" lower="380.38" upper="381.25"/>
+        <taxonset id="TaxonSet.5" spec="TaxonSet">
+            <taxon idref="Actinopterygii"/>
+        </taxonset>
+    </operator>
+
+    <operator id="bear_gulch" spec="FossilSiteDateRandomWalker" tree="@Tree.t:data_coelacanths_morphology-Torino-etal_matrix" weight="1.0" windowSize="2.0">
+        <FossilSiteSamplingDates id="bear_gulch_age" spec="beast.evolution.tree.FossilSiteSamplingDate" lower="323.2" upper="330.9"/>
+        <taxonset id="TaxonSet.6" spec="TaxonSet">
+            <taxon idref="Allenypterus"/>
+            <taxon idref="Caridosuctor"/>
+            <taxon idref="Hadronector"/>
+            <taxon idref="Lochmocercus"/>
+            <taxon idref="Polyosteorhynchus"/>
+        </taxonset>
+    </operator>
+
+    <operator id="quebrada_vaquillas_altas" spec="FossilSiteDateRandomWalker" tree="@Tree.t:data_coelacanths_morphology-Torino-etal_matrix" weight="1.0" windowSize="2.0">
+        <FossilSiteSamplingDates id="quebrada_vaquillas_altas_age" spec="beast.evolution.tree.FossilSiteSamplingDate" lower="195" upper="199.3"/>
+        <taxonset id="TaxonSet.7" spec="TaxonSet">
+            <taxon idref="Atacamaia"/>
+        </taxonset>
+    </operator>
+
+    <operator id="iskletten" spec="FossilSiteDateRandomWalker" tree="@Tree.t:data_coelacanths_morphology-Torino-etal_matrix" weight="1.0" windowSize="2.0">
+        <FossilSiteSamplingDates id="iskletten_age" spec="beast.evolution.tree.FossilSiteSamplingDate" lower="247.2" upper="251.2"/>
+        <taxonset id="TaxonSet.8" spec="TaxonSet">
+            <taxon idref="Axelia"/>
+            <taxon idref="Sassenia"/>
+            <taxon idref="Wimania"/>
+        </taxonset>
+    </operator>
+
+    <operator id="romualdo_lower" spec="FossilSiteDateRandomWalker" tree="@Tree.t:data_coelacanths_morphology-Torino-etal_matrix" weight="1.0" windowSize="2.0">
+        <FossilSiteSamplingDates id="romualdo_lower_age" spec="beast.evolution.tree.FossilSiteSamplingDate" lower="113" upper="125"/>
+        <taxonset id="TaxonSet.9" spec="TaxonSet">
+            <taxon idref="Axelrodichthys"/>
+            <taxon idref="Mawsonia"/>
+        </taxonset>
+    </operator>
+
+    <operator id="moss_owl_church" spec="FossilSiteDateRandomWalker" tree="@Tree.t:data_coelacanths_morphology-Torino-etal_matrix" weight="1.0" windowSize="0.5">
+        <FossilSiteSamplingDates id="moss_owl_church_age" spec="beast.evolution.tree.FossilSiteSamplingDate" lower="201.3" upper="227"/>
+        <taxonset id="TaxonSet.10" spec="TaxonSet">
+            <taxon idref="Chinlea"/>
+        </taxonset>
+    </operator>
+
+    <operator id="liegende_bankkalk" spec="FossilSiteDateRandomWalker" tree="@Tree.t:data_coelacanths_morphology-Torino-etal_matrix" weight="1.0" windowSize="0.5">
+        <FossilSiteSamplingDates id="liegende_bankkalk_age" spec="beast.evolution.tree.FossilSiteSamplingDate" lower="152.1" upper="153.55"/>
+        <taxonset id="TaxonSet.11" spec="TaxonSet">
+            <taxon idref="Coccoderma"/>
+        </taxonset>
+    </operator>
+
+    <operator id="marl_slate" spec="FossilSiteDateRandomWalker" tree="@Tree.t:data_coelacanths_morphology-Torino-etal_matrix" weight="1.0" windowSize="0.5">
+        <FossilSiteSamplingDates id="marl_slate_age" spec="beast.evolution.tree.FossilSiteSamplingDate" lower="254.1" upper="259.1"/>
+        <taxonset id="TaxonSet.12" spec="TaxonSet">
+            <taxon idref="Coelacanthus"/>
+        </taxonset>
+    </operator>
+
+    <operator id="kellwasserkalk" spec="FossilSiteDateRandomWalker" tree="@Tree.t:data_coelacanths_morphology-Torino-etal_matrix" weight="1.0" windowSize="2.0">
+        <FossilSiteSamplingDates id="kellwasserkalk_age" spec="beast.evolution.tree.FossilSiteSamplingDate" lower="372.2" upper="373"/>
+        <taxonset id="TaxonSet.13" spec="TaxonSet">
+            <taxon idref="Diplocercides"/>
+        </taxonset>
+    </operator>
+
+    <operator id="boonton" spec="FossilSiteDateRandomWalker" tree="@Tree.t:data_coelacanths_morphology-Torino-etal_matrix" weight="1.0" windowSize="2.0">
+        <FossilSiteSamplingDates id="boonton_age" spec="beast.evolution.tree.FossilSiteSamplingDate" lower="190.8" upper="201.3"/>
+        <taxonset id="TaxonSet.14" spec="TaxonSet">
+            <taxon idref="Diplurus"/>
+        </taxonset>
+    </operator>
+
+    <operator id="tulcea_veche" spec="FossilSiteDateRandomWalker" tree="@Tree.t:data_coelacanths_morphology-Torino-etal_matrix" weight="1.0" windowSize="0.5">
+        <FossilSiteSamplingDates id="tulcea_veche_age" spec="beast.evolution.tree.FossilSiteSamplingDate" lower="245" upper="247.4"/>
+        <taxonset id="TaxonSet.15" spec="TaxonSet">
+            <taxon idref="Dobrogeria"/>
+        </taxonset>
+    </operator>
+
+    <operator id="posongchong" spec="FossilSiteDateRandomWalker" tree="@Tree.t:data_coelacanths_morphology-Torino-etal_matrix" weight="1.0" windowSize="10.0">
+        <FossilSiteSamplingDates id="posongchong_age" spec="beast.evolution.tree.FossilSiteSamplingDate" lower="407.6" upper="410.8"/>
+        <taxonset id="TaxonSet.16" spec="TaxonSet">
+            <taxon idref="Euporosteus"/>
+        </taxonset>
+    </operator>
+
+    <operator id="prosanto_upper" spec="FossilSiteDateRandomWalker" tree="@Tree.t:data_coelacanths_morphology-Torino-etal_matrix" weight="1.0" windowSize="2.0">
+        <FossilSiteSamplingDates id="prosanto_upper_age" spec="beast.evolution.tree.FossilSiteSamplingDate" lower="240.65" upper="241.17"/>
+        <taxonset id="TaxonSet.17" spec="TaxonSet">
+            <taxon idref="Foreyia"/>
+        </taxonset>
+    </operator>
+
+    <operator id="meissner" spec="FossilSiteDateRandomWalker" tree="@Tree.t:data_coelacanths_morphology-Torino-etal_matrix" weight="1.0" windowSize="2.0">
+        <FossilSiteSamplingDates id="meissner_age" spec="beast.evolution.tree.FossilSiteSamplingDate" lower="239.1" upper="242.1"/>
+        <taxonset id="TaxonSet.18" spec="TaxonSet">
+            <taxon idref="Garnbergia"/>
+        </taxonset>
+    </operator>
+
+    <operator id="mt_howitt" spec="FossilSiteDateRandomWalker" tree="@Tree.t:data_coelacanths_morphology-Torino-etal_matrix" weight="1.0" windowSize="2.0">
+        <FossilSiteSamplingDates id="mt_howitt_age" spec="beast.evolution.tree.FossilSiteSamplingDate" lower="382.7" upper="384"/>
+        <taxonset id="TaxonSet.19" spec="TaxonSet">
+            <taxon idref="Gavinia"/>
+        </taxonset>
+    </operator>
+
+    <operator id="wayao" spec="FossilSiteDateRandomWalker" tree="@Tree.t:data_coelacanths_morphology-Torino-etal_matrix" weight="1.0" windowSize="2.0">
+        <FossilSiteSamplingDates id="wayao_age" spec="beast.evolution.tree.FossilSiteSamplingDate" lower="229.5" upper="231.25"/>
+        <taxonset id="TaxonSet.20" spec="TaxonSet">
+            <taxon idref="Guizhoucoelacanthus"/>
+        </taxonset>
+    </operator>
+
+    <operator id="meride_limestone" spec="FossilSiteDateRandomWalker" tree="@Tree.t:data_coelacanths_morphology-Torino-etal_matrix" weight="1.0" windowSize="2.0">
+        <FossilSiteSamplingDates id="meride_limestone_age" spec="beast.evolution.tree.FossilSiteSamplingDate" lower="237.9" upper="239.7"/>
+        <taxonset id="TaxonSet.21" spec="TaxonSet">
+            <taxon idref="Heptanema"/>
+        </taxonset>
+    </operator>
+
+    <operator id="lower_lias" spec="FossilSiteDateRandomWalker" tree="@Tree.t:data_coelacanths_morphology-Torino-etal_matrix" weight="1.0" windowSize="2.0">
+        <FossilSiteSamplingDates id="lower_lias_age" spec="beast.evolution.tree.FossilSiteSamplingDate" lower="193.81" upper="196.31"/>
+        <taxonset id="TaxonSet.22" spec="TaxonSet">
+            <taxon idref="Holophagus"/>
+        </taxonset>
+    </operator>
+
+    <operator id="oberer_plattenkalk" spec="FossilSiteDateRandomWalker" tree="@Tree.t:data_coelacanths_morphology-Torino-etal_matrix" weight="1.0" windowSize="2.0">
+        <FossilSiteSamplingDates id="oberer_plattenkalk_age" spec="beast.evolution.tree.FossilSiteSamplingDate" lower="384.99" upper="385.41"/>
+        <taxonset id="TaxonSet.23" spec="TaxonSet">
+            <taxon idref="Holopterygius"/>
+        </taxonset>
+    </operator>
+
+    <operator id="kota" spec="FossilSiteDateRandomWalker" tree="@Tree.t:data_coelacanths_morphology-Torino-etal_matrix" weight="1.0" windowSize="0.5">
+        <FossilSiteSamplingDates id="kota_age" spec="beast.evolution.tree.FossilSiteSamplingDate" lower="125" upper="163.5"/>
+        <taxonset id="TaxonSet.24" spec="TaxonSet">
+            <taxon idref="Indocoelacanthus"/>
+        </taxonset>
+    </operator>
+
+    <operator id="wordie_creek" spec="FossilSiteDateRandomWalker" tree="@Tree.t:data_coelacanths_morphology-Torino-etal_matrix" weight="1.0" windowSize="2.0">
+        <FossilSiteSamplingDates id="wordie_creek_age" spec="beast.evolution.tree.FossilSiteSamplingDate" lower="250.4" upper="251"/>
+        <taxonset id="TaxonSet.25" spec="TaxonSet">
+            <taxon idref="Laugia"/>
+        </taxonset>
+    </operator>
+
+    <operator id="solnhofen" spec="FossilSiteDateRandomWalker" tree="@Tree.t:data_coelacanths_morphology-Torino-etal_matrix" weight="1.0" windowSize="2.0">
+        <FossilSiteSamplingDates id="solnhofen_age" spec="beast.evolution.tree.FossilSiteSamplingDate" lower="150.94" upper="152.06"/>
+        <taxonset id="TaxonSet.26" spec="TaxonSet">
+            <taxon idref="Libys"/>
+            <taxon idref="Undina"/>
+        </taxonset>
+    </operator>
+
+    <operator id="lualabaea_series" spec="FossilSiteDateRandomWalker" tree="@Tree.t:data_coelacanths_morphology-Torino-etal_matrix" weight="1.0" windowSize="0.5">
+        <FossilSiteSamplingDates id="lualabaea_series_age" spec="beast.evolution.tree.FossilSiteSamplingDate" lower="139.8" upper="145"/>
+        <taxonset id="TaxonSet.27" spec="TaxonSet">
+            <taxon idref="Lualabaea"/>
+        </taxonset>
+    </operator>
+
+    <operator id="guanling_member2" spec="FossilSiteDateRandomWalker" tree="@Tree.t:data_coelacanths_morphology-Torino-etal_matrix" weight="1.0" windowSize="2.0">
+        <FossilSiteSamplingDates id="guanling_member2_age" spec="beast.evolution.tree.FossilSiteSamplingDate" lower="244.25" upper="246.75"/>
+        <taxonset id="TaxonSet.28" spec="TaxonSet">
+            <taxon idref="Luopingcoelacanthus"/>
+            <taxon idref="Yunnancoelacanthus"/>
+        </taxonset>
+    </operator>
+
+    <operator id="lewes_nodular_chalk" spec="FossilSiteDateRandomWalker" tree="@Tree.t:data_coelacanths_morphology-Torino-etal_matrix" weight="1.0" windowSize="2.0">
+        <FossilSiteSamplingDates id="lewes_nodular_chalk_age" spec="beast.evolution.tree.FossilSiteSamplingDate" lower="89.7" upper="91.45"/>
+        <taxonset id="TaxonSet.29" spec="TaxonSet">
+            <taxon idref="Macropoma"/>
+        </taxonset>
+    </operator>
+
+    <operator id="blufftown" spec="FossilSiteDateRandomWalker" tree="@Tree.t:data_coelacanths_morphology-Torino-etal_matrix" weight="1.0" windowSize="2.0">
+        <FossilSiteSamplingDates id="blufftown_age" spec="beast.evolution.tree.FossilSiteSamplingDate" lower="74.309" upper="83.64"/>
+        <taxonset id="TaxonSet.30" spec="TaxonSet">
+            <taxon idref="Megalocoelacanthus"/>
+        </taxonset>
+    </operator>
+
+    <operator id="river_restigouch" spec="FossilSiteDateRandomWalker" tree="@Tree.t:data_coelacanths_morphology-Torino-etal_matrix" weight="1.0" windowSize="2.0">
+        <FossilSiteSamplingDates id="river_restigouch_age" spec="beast.evolution.tree.FossilSiteSamplingDate" lower="380.5" upper="382.9"/>
+        <taxonset id="TaxonSet.31" spec="TaxonSet">
+            <taxon idref="Miguashaia"/>
+        </taxonset>
+    </operator>
+
+    <operator id="pastos_bons" spec="FossilSiteDateRandomWalker" tree="@Tree.t:data_coelacanths_morphology-Torino-etal_matrix" weight="1.0" windowSize="10.0">
+        <FossilSiteSamplingDates id="pastos_bons_age" spec="beast.evolution.tree.FossilSiteSamplingDate" lower="100.5" upper="163.5"/>
+        <taxonset id="TaxonSet.32" spec="TaxonSet">
+            <taxon idref="Parnaibaia"/>
+        </taxonset>
+    </operator>
+
+    <operator id="sakamena_middle" spec="FossilSiteDateRandomWalker" tree="@Tree.t:data_coelacanths_morphology-Torino-etal_matrix" weight="1.0" windowSize="2.0">
+        <FossilSiteSamplingDates id="sakamena_middle_age" spec="beast.evolution.tree.FossilSiteSamplingDate" lower="248" upper="250.4"/>
+        <taxonset id="TaxonSet.33" spec="TaxonSet">
+            <taxon idref="Piveteauia"/>
+            <taxon idref="Whiteia"/>
+        </taxonset>
+    </operator>
+
+    <operator id="devonian" spec="FossilSiteDateRandomWalker" tree="@Tree.t:data_coelacanths_morphology-Torino-etal_matrix" weight="1.0" windowSize="10.0">
+        <FossilSiteSamplingDates id="devonian_age" spec="beast.evolution.tree.FossilSiteSamplingDate" lower="358.9" upper="419.2"/>
+        <taxonset id="TaxonSet.34" spec="TaxonSet">
+            <taxon idref="Porolepiformes"/>
+        </taxonset>
+    </operator>
+
+    <operator id="vega_phoroso" spec="FossilSiteDateRandomWalker" tree="@Tree.t:data_coelacanths_morphology-Torino-etal_matrix" weight="1.0" windowSize="2.0">
+        <FossilSiteSamplingDates id="vega_phoroso_age" spec="beast.evolution.tree.FossilSiteSamplingDate" lower="247.4" upper="249.7"/>
+        <taxonset id="TaxonSet.35" spec="TaxonSet">
+            <taxon idref="Rebellatrix"/>
+        </taxonset>
+    </operator>
+
+    <operator id="duck_creek" spec="FossilSiteDateRandomWalker" tree="@Tree.t:data_coelacanths_morphology-Torino-etal_matrix" weight="1.0" windowSize="2.0">
+        <FossilSiteSamplingDates id="duck_creek_age" spec="beast.evolution.tree.FossilSiteSamplingDate" lower="100.5" upper="102"/>
+        <taxonset id="TaxonSet.36" spec="TaxonSet">
+            <taxon idref="Reidus"/>
+        </taxonset>
+    </operator>
+
+    <operator id="freeport_coal" spec="FossilSiteDateRandomWalker" tree="@Tree.t:data_coelacanths_morphology-Torino-etal_matrix" weight="1.0" windowSize="2.0">
+        <FossilSiteSamplingDates id="freeport_coal_age" spec="beast.evolution.tree.FossilSiteSamplingDate" lower="307" upper="315.2"/>
+        <taxonset id="TaxonSet.37" spec="TaxonSet">
+            <taxon idref="Rhabdoderma"/>
+        </taxonset>
+    </operator>
+
+    <operator id="witpoort" spec="FossilSiteDateRandomWalker" tree="@Tree.t:data_coelacanths_morphology-Torino-etal_matrix" weight="1.0" windowSize="2.0">
+        <FossilSiteSamplingDates id="witpoort_age" spec="beast.evolution.tree.FossilSiteSamplingDate" lower="358.9" upper="372.2"/>
+        <taxonset id="TaxonSet.38" spec="TaxonSet">
+            <taxon idref="Serenichthys"/>
+        </taxonset>
+    </operator>
+
+    <operator id="maybelle_limestone" spec="FossilSiteDateRandomWalker" tree="@Tree.t:data_coelacanths_morphology-Torino-etal_matrix" weight="1.0" windowSize="1.802">
+        <FossilSiteSamplingDates id="maybelle_limestone_age" spec="beast.evolution.tree.FossilSiteSamplingDate" lower="270.6" upper="275.6"/>
+        <taxonset id="TaxonSet.39" spec="TaxonSet">
+            <taxon idref="Spermatodus"/>
+        </taxonset>
+    </operator>
+
+    <operator id="xitun" spec="FossilSiteDateRandomWalker" tree="@Tree.t:data_coelacanths_morphology-Torino-etal_matrix" weight="1.0" windowSize="2.0">
+        <FossilSiteSamplingDates id="xitun_age" spec="beast.evolution.tree.FossilSiteSamplingDate" lower="410.8" upper="419.2"/>
+        <taxonset id="TaxonSet.40" spec="TaxonSet">
+            <taxon idref="Styloichthys"/>
+        </taxonset>
+    </operator>
+
+    <operator id="levigny" spec="FossilSiteDateRandomWalker" tree="@Tree.t:data_coelacanths_morphology-Torino-etal_matrix" weight="1.0" windowSize="2.0">
+        <FossilSiteSamplingDates id="levigny_age" spec="beast.evolution.tree.FossilSiteSamplingDate" lower="156.75" upper="159.44"/>
+        <taxonset id="TaxonSet.41" spec="TaxonSet">
+            <taxon idref="Swenzia"/>
+        </taxonset>
+    </operator>
+
+    <operator id="grenzbitumenzone" spec="FossilSiteDateRandomWalker" tree="@Tree.t:data_coelacanths_morphology-Torino-etal_matrix" weight="1.0" windowSize="10.0">
+        <FossilSiteSamplingDates id="grenzbitumenzone_age" spec="beast.evolution.tree.FossilSiteSamplingDate" lower="240" upper="245"/>
+        <taxonset id="TaxonSet.42" spec="TaxonSet">
+            <taxon idref="Ticinepomis"/>
+        </taxonset>
+    </operator>
+
+    <operator id="posidonia_shale" spec="FossilSiteDateRandomWalker" tree="@Tree.t:data_coelacanths_morphology-Torino-etal_matrix" weight="1.0" windowSize="2.0">
+        <FossilSiteSamplingDates id="posidonia_shale_age" spec="beast.evolution.tree.FossilSiteSamplingDate" lower="180.5" upper="181.75"/>
+        <taxonset id="TaxonSet.43" spec="TaxonSet">
+            <taxon idref="Trachymetopon"/>
+        </taxonset>
+    </operator>
+
+    <logger id="tracelog" spec="Logger" fileName="beast_coelacanths_morphology_Torino-etal_log.log" logEvery="100000" model="@posterior" sanitiseHeaders="true" sort="smart">
+        <log idref="posterior"/>
+        <log idref="likelihood"/>
+        <log idref="prior"/>
+        <log id="TreeHeight.t:data_coelacanths_morphology-Torino-etal_matrix" spec="beast.evolution.tree.TreeHeightLogger" tree="@Tree.t:data_coelacanths_morphology-Torino-etal_matrix"/>
+        <log idref="morphTreeLikelihood.data_coelacanths_morphology-Torino-etal_matrix3"/>
+        <log idref="morphTreeLikelihood.data_coelacanths_morphology-Torino-etal_matrix4"/>
+        <log idref="morphTreeLikelihood.data_coelacanths_morphology-Torino-etal_matrix5"/>
+        <log idref="morphTreeLikelihood.data_coelacanths_morphology-Torino-etal_matrix2"/>
+        <log idref="gammaShape.s:data_coelacanths_morphology-Torino-etal_matrix2"/>
+        <log idref="gammaShape.s:data_coelacanths_morphology-Torino-etal_matrix3"/>
+        <log idref="gammaShape.s:data_coelacanths_morphology-Torino-etal_matrix4"/>
+        <log idref="gammaShape.s:data_coelacanths_morphology-Torino-etal_matrix5"/>
+        <log idref="ucldMean.c:data_coelacanths_morphology-Torino-etal_matrix"/>
+        <log idref="ucldStdev.c:data_coelacanths_morphology-Torino-etal_matrix"/>
+        <log id="rate.c:data_coelacanths_morphology-Torino-etal_matrix" spec="beast.evolution.branchratemodel.RateStatistic" branchratemodel="@RelaxedClock.c:data_coelacanths_morphology-Torino-etal_matrix" tree="@Tree.t:data_coelacanths_morphology-Torino-etal_matrix"/>
+        <log idref="FBD.t:data_coelacanths_morphology-Torino-etal_matrix"/>
+        <log idref="diversificationRateFBD.t:data_coelacanths_morphology-Torino-etal_matrix"/>
+        <log idref="turnoverFBD.t:data_coelacanths_morphology-Torino-etal_matrix"/>
+        <log idref="samplingProportionFBD.t:data_coelacanths_morphology-Torino-etal_matrix"/>
+        <log idref="originFBD.t:data_coelacanths_morphology-Torino-etal_matrix"/>
+        <log id="SACountFBD.t:data_coelacanths_morphology-Torino-etal_matrix" spec="beast.evolution.tree.SampledAncestorLogger" tree="@Tree.t:data_coelacanths_morphology-Torino-etal_matrix"/>
+        <log idref="Root.prior"/>
+        <log idref="Actinistia.prior"/>
+        <log idref="Alleny-Holo.prior"/>
+        <log idref="yunnanocoelacanthus.prior"/>
+        <log idref="wimania.prior"/>
+        <log idref="whiteia.prior"/>
+        <log idref="undina.prior"/>
+        <log idref="trachymetopon.prior"/>
+        <log idref="ticinepomis.prior"/>
+        <log idref="swenzia.prior"/>
+        <log idref="styloichthys.prior"/>
+        <log idref="spermatodus.prior"/>
+        <log idref="serenichthys.prior"/>
+        <log idref="sassenia.prior"/>
+        <log idref="rhabdoderma.prior"/>
+        <log idref="reidus.prior"/>
+        <log idref="rebellatrix.prior"/>
+        <log idref="porolepiformes.prior"/>
+        <log idref="polyosteorhynchus.prior"/>
+        <log idref="piveteauia.prior"/>
+        <log idref="parnaibaia.prior"/>
+        <log idref="miguashaia.prior"/>
+        <log idref="megalocoelacanthus.prior"/>
+        <log idref="mawsonia.prior"/>
+        <log idref="macropoma.prior"/>
+        <log idref="luopingcoelacanthus.prior"/>
+        <log idref="lualabaea.prior"/>
+        <log idref="lochmocercus.prior"/>
+        <log idref="libys.prior"/>
+        <log idref="laugia.prior"/>
+        <log idref="indocoelacanthus.prior"/>
+        <log idref="holopterygius.prior"/>
+        <log idref="holophagus.prior"/>
+        <log idref="heptanema.prior"/>
+        <log idref="hadronector.prior"/>
+        <log idref="guizhoucoelacanthus.prior"/>
+        <log idref="gavinia.prior"/>
+        <log idref="garnbergia.prior"/>
+        <log idref="foreyia.prior"/>
+        <log idref="euporosteus.prior"/>
+        <log idref="dobrogeria.prior"/>
+        <log idref="diplurus.prior"/>
+        <log idref="diplocercides.prior"/>
+        <log idref="coelacanthus.prior"/>
+        <log idref="coccoderma.prior"/>
+        <log idref="chinlea.prior"/>
+        <log idref="caridosuctor.prior"/>
+        <log idref="axelrodichthys.prior"/>
+        <log idref="axelia.prior"/>
+        <log idref="atacamaia.prior"/>
+        <log idref="allenypterus.prior"/>
+        <log idref="actinopterygii.prior"/>
+    </logger>
+
+    <logger id="screenlog" spec="Logger" fileName="beast_coelacanths_morphology_Torino-etal_log" logEvery="100000">
+        <log idref="posterior"/>
+        <log idref="likelihood"/>
+        <log idref="prior"/>
+    </logger>
+
+    <logger id="treelog.t:data_coelacanths_morphology-Torino-etal_matrix" spec="Logger" fileName="beast_coelacanths_morphology_Torino-etal.trees" logEvery="100000" mode="tree">
+        <log id="TreeWithMetaDataLogger.t:data_coelacanths_morphology-Torino-etal_matrix" spec="beast.evolution.tree.TreeWithMetaDataLogger" branchratemodel="@RelaxedClock.c:data_coelacanths_morphology-Torino-etal_matrix" tree="@Tree.t:data_coelacanths_morphology-Torino-etal_matrix"/>
+    </logger>
+
+</run>
+
+</beast>
