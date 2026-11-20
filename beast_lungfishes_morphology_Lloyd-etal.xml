@@ -1,0 +1,573 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><beast beautitemplate='Standard' beautistatus='' namespace="beast.core:beast.evolution.alignment:beast.evolution.tree.coalescent:beast.core.util:beast.evolution.nuc:beast.evolution.operators:beast.evolution.sitemodel:beast.evolution.substitutionmodel:beast.evolution.likelihood" required="" version="2.6">
+
+
+    <data
+id="data_lungfishes_morphology_Lloyd-etal_matrix"
+spec="Alignment"
+dataType="standard">
+                            <sequence id="seq_F_Adelargo_schultzei_360.7" spec="Sequence" taxon="F_Adelargo_schultzei_360.7" totalcount="6" value="??0?0100000????1?10110?10???10011????00?1??21??2120???1??????????????????1??1?01???1110?000012345"/>
+                            <sequence id="seq_F_Adololopas_moyasmithae_372.2" spec="Sequence" taxon="F_Adololopas_moyasmithae_372.2" totalcount="6" value="?10?01000001???0??011010?????010110???0?00?21101111??????????????????????1??1011???1110?000012345"/>
+                            <sequence id="seq_F_Amadeodipterus_kencampbelli_387.7" spec="Sequence" taxon="F_Amadeodipterus_kencampbelli_387.7" totalcount="6" value="100?2120??000?0?1001000?3120?00001???1?00???????????????????????????????1???2?????1????????012345"/>
+                            <sequence id="seq_F_Andreyevichthys_epitomus_359.2" spec="Sequence" taxon="F_Andreyevichthys_epitomus_359.2" totalcount="6" value="1200?100?00121?02?01101041??10001?0??10?1??210021211??2??02??????????????1??1?01???1?????00012345"/>
+                            <sequence id="seq_F_Aphelodus_anapes_245" spec="Sequence" taxon="F_Aphelodus_anapes_245" totalcount="6" value="?200??????1120??2???????????????????????????????????????????????????????10?0320????????????012345"/>
+                            <sequence id="seq_F_Archaeoceratodus_avus_98" spec="Sequence" taxon="F_Archaeoceratodus_avus_98" totalcount="6" value="????????????????????????????????????????????????????????????????????????10?0321????????????012345"/>
+                            <sequence id="seq_F_Archaeonectes_pertusus_374.5" spec="Sequence" taxon="F_Archaeonectes_pertusus_374.5" totalcount="6" value="???????????????????????????????????????????01????????????????????????????1????01????????000012345"/>
+                            <sequence id="seq_F_Arganodus_atlantis_228" spec="Sequence" taxon="F_Arganodus_atlantis_228" totalcount="6" value="1200121100204?04210101124120102211???30010?2????140030222???30122322021?1030321???????0????012345"/>
+                            <sequence id="seq_F_Ariguna_formosa_245" spec="Sequence" taxon="F_Ariguna_formosa_245" totalcount="6" value="1200142300113022214?04123122203021???5?01??22?0???????????2?301?1????????03??????1221??1?1?012345"/>
+                            <sequence id="seq_F_Asiatoceratodus_sharovi_245" spec="Sequence" taxon="F_Asiatoceratodus_sharovi_245" totalcount="6" value="1200121200212?002111021141202031111??10010?2????????????????3???????????1030321??1221????1?012345"/>
+                            <sequence id="seq_F_Asthenorhynchus_meemannae_374.5" spec="Sequence" taxon="F_Asthenorhynchus_meemannae_374.5" totalcount="6" value="110???10?00110?02?0110?11000?001110010001??01?????00212101???01?0?1?01???0312????12??11???0012345"/>
+                            <sequence id="seq_F_Barwickia_downunda_383.7" spec="Sequence" taxon="F_Barwickia_downunda_383.7" totalcount="6" value="111?0100?0011000210110?11?0010011111100?1??211001210000000000000000000000000000000010000001012345"/>
+                            <sequence id="seq_F_Beltanodus_ambilobensis_245" spec="Sequence" taxon="F_Beltanodus_ambilobensis_245" totalcount="6" value="1200122100013022210100123122101011???50010??????????????????3??????????????????????????????012345"/>
+                            <sequence id="seq_F_Ceratodus_formosa_245" spec="Sequence" taxon="F_Ceratodus_formosa_245" totalcount="6" value="12001423?01120002141041110?02031210??00010?????????????????????????????????????????????????012345"/>
+                            <sequence id="seq_F_Ceratodus_latissimus_201.3" spec="Sequence" taxon="F_Ceratodus_latissimus_201.3" totalcount="6" value="????????????????????????????????????????????????????????????????????????1030321????????????012345"/>
+                            <sequence id="seq_F_Chirodipterus_australis_374.5" spec="Sequence" taxon="F_Chirodipterus_australis_374.5" totalcount="6" value="110001000001100010011011000010011100100000121012111???1??????????????????1111011???1?100?00012345"/>
+                            <sequence id="seq_F_Chirodipterus_onawwayensis_382.7" spec="Sequence" taxon="F_Chirodipterus_onawwayensis_382.7" totalcount="6" value="???0????????????10??????????10???1100?0000?????????1101111111011111110011111100101111111110012345"/>
+                            <sequence id="seq_F_Chirodipterus_rhenanus_385.3" spec="Sequence" taxon="F_Chirodipterus_rhenanus_385.3" totalcount="6" value="???????????????????????????????????????????21??????0010000000100000001100100110111011100001012345"/>
+                            <sequence id="seq_F_Chirodipterus_wildungensis_374.5" spec="Sequence" taxon="F_Chirodipterus_wildungensis_374.5" totalcount="6" value="1100?10000011??01?01101000??????1????00000121?1??????????????????????????????????1?1111?1?0012345"/>
+                            <sequence id="seq_F_Conchopoma_gadiforme_306.5" spec="Sequence" taxon="F_Conchopoma_gadiforme_306.5" totalcount="6" value="120001000011101421010112410110221111130010?22100331121200020301010120?1?20310??021221101012012345"/>
+                            <sequence id="seq_F_Ctenodus_romeri_345.3" spec="Sequence" taxon="F_Ctenodus_romeri_345.3" totalcount="6" value="11001201?001101121011012200?1000111??00010?21102121130220???30121122021?1030421???2???0??1?012345"/>
+                            <sequence id="seq_F_Delatitia_breviceps_346.7" spec="Sequence" taxon="F_Delatitia_breviceps_346.7" totalcount="6" value="1100?100?0011??02?0110110??100111????0001???????????????????3???????????10304??????????????012345"/>
+                            <sequence id="seq_F_Diabolepis_speratus_410.8" spec="Sequence" taxon="F_Diabolepis_speratus_410.8" totalcount="6" value="1200??001???0?001?0000000?????000????01002?1000000???????????????????????1?????1???1?11?1?0012345"/>
+                            <sequence id="seq_F_Dipnorhynch_cathlesae_393.3" spec="Sequence" taxon="F_Dipnorhynch_cathlesae_393.3" totalcount="6" value="0?00??0000001?101?00000000000000???????????????????1111111111111111111111110101111111111110012345"/>
+                            <sequence id="seq_F_Dipnorhynchus_kiandrensis_393.3" spec="Sequence" taxon="F_Dipnorhynchus_kiandrensis_393.3" totalcount="6" value="01000?00000010101?000000000000000????0000000?????????????????????????????????????1?110001?0012345"/>
+                            <sequence id="seq_F_Dipnorhynchus_kurikae_393.3" spec="Sequence" taxon="F_Dipnorhynchus_kurikae_393.3" totalcount="6" value="0000000000000?000000000000000000000010000000??????????1??????????????????1111011?1111111110012345"/>
+                            <sequence id="seq_F_Dipnorhynchus_sussmilchi_393.3" spec="Sequence" taxon="F_Dipnorhynchus_sussmilchi_393.3" totalcount="6" value="?????????????????????????????????????????????????????????????????????????1111??1???????1??0012345"/>
+                            <sequence id="seq_F_Dipterus_cf_valenciennesi_374.5" spec="Sequence" taxon="F_Dipterus_cf_valenciennesi_374.5" totalcount="6" value="1000010000011000100100100020000011000000001210011?0???1??????????????????1??1101????110?110012345"/>
+                            <sequence id="seq_F_Dipterus_valenciennesi_391.8" spec="Sequence" taxon="F_Dipterus_valenciennesi_391.8" totalcount="6" value="11000100000110?0100110100000000011?010000012110111?0000000001000000000000000000000000000000012345"/>
+                            <sequence id="seq_F_Eoctenodus_microsoma_374.5" spec="Sequence" taxon="F_Eoctenodus_microsoma_374.5" totalcount="6" value="???????????????????????????????????????????21?02121130120???????????????10302????12???0????012345"/>
+                            <sequence id="seq_F_Ferganoceratodus_jurassicus_163.5" spec="Sequence" taxon="F_Ferganoceratodus_jurassicus_163.5" totalcount="6" value="1200121100204?04210101124120101011???30010??????????????????3???????????1030321????????????012345"/>
+                            <sequence id="seq_F_Fleurantia_denticulata_372.2" spec="Sequence" taxon="F_Fleurantia_denticulata_372.2" totalcount="6" value="11100110?0012100200110?110001001110110011??2100212?1302201??312210??0???20310??0?1200310001012345"/>
+                            <sequence id="seq_F_Ganopristodus_splendens_326.4" spec="Sequence" taxon="F_Ganopristodus_splendens_326.4" totalcount="6" value="11001201?00110102101001141011011111??10010?2100?12??202202113010??22011?10310210??21?????1?012345"/>
+                            <sequence id="seq_F_Gnathorhiza_serrata_272.3" spec="Sequence" taxon="F_Gnathorhiza_serrata_272.3" totalcount="6" value="120012010001302221011012312031131111150010?2210223002022102030121222021?10303211?12??03???1012345"/>
+                            <sequence id="seq_F_Gogodipterus_paddyensis_374.5" spec="Sequence" taxon="F_Gogodipterus_paddyensis_374.5" totalcount="6" value="????????00??????1?????????????????????000012110211?02022022100100012000010303??0??????0?0?0012345"/>
+                            <sequence id="seq_F_Gosfordia_truncata_242" spec="Sequence" taxon="F_Gosfordia_truncata_242" totalcount="6" value="1200121100204?002101001141202031?1???1001??????214??30?2????3??2????????1??0?????1221?0??11012345"/>
+                            <sequence id="seq_F_Griphognathus_minutidens_374.5" spec="Sequence" taxon="F_Griphognathus_minutidens_374.5" totalcount="6" value="1110011000001110100110?11001000111???00110?2120?12???1220????12?00??110020310????1?????????012345"/>
+                            <sequence id="seq_F_Griphognathus_sculpta_374.5" spec="Sequence" taxon="F_Griphognathus_sculpta_374.5" totalcount="6" value="11100110?0001100100110?11001000111100001102212???????1220?1001101112110022310???11?003?0000012345"/>
+                            <sequence id="seq_F_Griphognathus_whitei_374.5" spec="Sequence" taxon="F_Griphognathus_whitei_374.5" totalcount="6" value="1110011000001100100110?1100?0001110010011021121112101122011011?01?02110022310?0111?00310000012345"/>
+                            <sequence id="seq_F_Grossipterus_crassus_374.5" spec="Sequence" taxon="F_Grossipterus_crassus_374.5" totalcount="6" value="??1??100?00???????0110???????0??????????????????????????????????????????10303??????????????012345"/>
+                            <sequence id="seq_F_Holodipterus_elderae_374.5" spec="Sequence" taxon="F_Holodipterus_elderae_374.5" totalcount="6" value="????01?0000????01?0110?1??????011?????00?01011011?002?210????011??02010??1312???01200?1??0?012345"/>
+                            <sequence id="seq_F_Holodipterus_gogoensis_374.5" spec="Sequence" taxon="F_Holodipterus_gogoensis_374.5" totalcount="6" value="1110010000011??01001101100????01110??00000101?????1021210221201001021101?0312210??2???1????012345"/>
+                            <sequence id="seq_F_Holodipterus_santacrucensis_374.5" spec="Sequence" taxon="F_Holodipterus_santacrucensis_374.5" totalcount="6" value="?????????????????????????????????????????????????????????????0101?120100?0?12?1????????????012345"/>
+                            <sequence id="seq_F_Howidipterus_donnae_383.7" spec="Sequence" taxon="F_Howidipterus_donnae_383.7" totalcount="6" value="110?0100?001?00?200110?1?00110011101100?1??2110012?12022??21302230??110110302????12??3100?1012345"/>
+                            <sequence id="seq_F_Ichnomylax_kurnai_402.5" spec="Sequence" taxon="F_Ichnomylax_kurnai_402.5" totalcount="6" value="?????????????????????????????????????????????????????????????00?00??0001?1011??????????????012345"/>
+                            <sequence id="seq_F_Iowadipterus_halli_382.7" spec="Sequence" taxon="F_Iowadipterus_halli_382.7" totalcount="6" value="10000110?0000?001?0100?1100000011100100000??????????????????001000??0?????????????1??0?00??012345"/>
+                            <sequence id="seq_F_Jarvikia_arctica_359.2" spec="Sequence" taxon="F_Jarvikia_arctica_359.2" totalcount="6" value="?100??10?0000??01?000010100??000?????00000?00?0?00??00?1?0??0???????????10303??????????????012345"/>
+                            <sequence id="seq_F_Jessenia_concentrica_397.5" spec="Sequence" taxon="F_Jessenia_concentrica_397.5" totalcount="6" value="1210??11?00121002?0110?1410??111111??1011??21???110?2?220???3??????????????????1?????31????012345"/>
+                            <sequence id="seq_Lepidosiren_paradoxa_0.0" spec="Sequence" taxon="Lepidosiren_paradoxa_0.0" totalcount="6" value="1201141211213?20212103134122322221?11400102221021400402220223012232212201030321101221221112012345"/>
+                            <sequence id="seq_F_Megapleuron_zangerli_306.9" spec="Sequence" taxon="F_Megapleuron_zangerli_306.9" totalcount="6" value="120012010001200021010011410?101111???10010?22102141120220???30121?12021?1030221?0122111??1?012345"/>
+                            <sequence id="seq_F_Melanognathus_canadensis_393.3" spec="Sequence" taxon="F_Melanognathus_canadensis_393.3" totalcount="6" value="0000????000?0?0?0????????00???0??????00000?1210111?011120?0001103011000021310?0???????0????012345"/>
+                            <sequence id="seq_F_Metaceratodus_wollastoni_99.6" spec="Sequence" taxon="F_Metaceratodus_wollastoni_99.6" totalcount="6" value="????????????????????????????????????????????????????????????????????????1030321????????????012345"/>
+                            <sequence id="seq_F_Microceratodus_angolensis_251.3" spec="Sequence" taxon="F_Microceratodus_angolensis_251.3" totalcount="6" value="12001201001130232101?0123112????11???50010??????????????????30???????????????????1221????1?012345"/>
+                            <sequence id="seq_F_Mioceratodus_gregoryi_23.033" spec="Sequence" taxon="F_Mioceratodus_gregoryi_23.033" totalcount="6" value="1210??12002130202121?31141223?1121???3?01?2????2????30?22??0???21?2?1?1?1??03211??????0????012345"/>
+                            <sequence id="seq_F_Namatozodia_pitikanta_245" spec="Sequence" taxon="F_Namatozodia_pitikanta_245" totalcount="6" value="12001?2100213022215105?23122203011???5??1??????????????????????????????????????????????????012345"/>
+                            <sequence id="seq_Neoceratodus_forsteri_0.0" spec="Sequence" taxon="Neoceratodus_forsteri_0.0" totalcount="6" value="1210141200213?20210103114122321121111200101222021400302220203012132212101030321101221201111012345"/>
+                            <sequence id="seq_F_Nielsenia_nordica_359.2" spec="Sequence" taxon="F_Nielsenia_nordica_359.2" totalcount="6" value="1210?100?00110?02?01?1?141???0011????3001??????????????????????????????????????????????????012345"/>
+                            <sequence id="seq_F_Oervigia_nordica_359.2" spec="Sequence" taxon="F_Oervigia_nordica_359.2" totalcount="6" value="12000110?00121?02?0100?1100?00111????00010???????????????????????????????1003??????????????012345"/>
+                            <sequence id="seq_F_Orlovichthys_limnatis_359.2" spec="Sequence" taxon="F_Orlovichthys_limnatis_359.2" totalcount="6" value="1200??00?00111?02?0110?110?????11????00?1??21??2121?202?????3???????????10302????????11????012345"/>
+                            <sequence id="seq_F_Palaeodaphus_insignis_374.5" spec="Sequence" taxon="F_Palaeodaphus_insignis_374.5" totalcount="6" value="????????????????????????????????????????0????????????????????000??22????10?03??????????????012345"/>
+                            <sequence id="seq_F_Palaeophichthys_parvulus_306.5" spec="Sequence" taxon="F_Palaeophichthys_parvulus_306.5" totalcount="6" value="12001201?011201?210100112???101011????0010?1????????3??2??2130?21?220?1?10303?11?1221?2?011012345"/>
+                            <sequence id="seq_F_Paraceratodus_germaini_251.3" spec="Sequence" taxon="F_Paraceratodus_germaini_251.3" totalcount="6" value="1200132100112005210100124130101111???00010??????????????????3????????????????????1221????1?012345"/>
+                            <sequence id="seq_F_Parasagenodus_sibiricus_318.1" spec="Sequence" taxon="F_Parasagenodus_sibiricus_318.1" totalcount="6" value="1?000100?00????2??01101231????0??????0??1??21???23002022????3???????????10304??????????????012345"/>
+                            <sequence id="seq_F_Pentlandia_macroptera_385.3" spec="Sequence" taxon="F_Pentlandia_macroptera_385.3" totalcount="6" value="1200??00?00110002?01?0?100????0111?1100010??????????????????3??2??????????????????210????0?012345"/>
+                            <sequence id="seq_F_Phaneropleuron_andersoni_359.2" spec="Sequence" taxon="F_Phaneropleuron_andersoni_359.2" totalcount="6" value="1200?100?00120002?0110??1???000?11???00010??????????????????3????????????????????12101???0?012345"/>
+                            <sequence id="seq_F_Pillararhynchus_longi_374.5" spec="Sequence" taxon="F_Pillararhynchus_longi_374.5" totalcount="6" value="1100??10000?0?001?0100??02????0?1111100000?2101211?010220???00000020000000100??0?01??1000?0012345"/>
+                            <sequence id="seq_Protopterus_annectens_0.0" spec="Sequence" taxon="Protopterus_annectens_0.0" totalcount="6" value="1201121211213?20212103134122322221?11400102221021400102220223012232212201030321101221221112012345"/>
+                            <sequence id="seq_F_Psarolepis_romeri_410.8" spec="Sequence" taxon="F_Psarolepis_romeri_410.8" totalcount="6" value="02001???1???????1?????????????????????1002?2000?????0100?2??21210012000020010??????????????012345"/>
+                            <sequence id="seq_F_Ptychoceratodus_serratus_235" spec="Sequence" taxon="F_Ptychoceratodus_serratus_235" totalcount="6" value="1200120100112003210100123110203011???50010?22??????????22?2030?22322121?1030321????????????012345"/>
+                            <sequence id="seq_F_Rhinodipterus_secans_374.5" spec="Sequence" taxon="F_Rhinodipterus_secans_374.5" totalcount="6" value="11000100?000100?1?0110??10??00??1????00100?????2111120120???02100???110110302?????1???1???1012345"/>
+                            <sequence id="seq_F_Rhinodipterus_ulrichi_385.3" spec="Sequence" taxon="F_Rhinodipterus_ulrichi_385.3" totalcount="6" value="11000100?0001000100110?110000001111000010012111211?120020???02000?12110110302????0100300001012345"/>
+                            <sequence id="seq_F_Rhynchodipterus_elginensis_359.2" spec="Sequence" taxon="F_Rhynchodipterus_elginensis_359.2" totalcount="6" value="1210?110?00111?00?0110?1100???0111?0100110???????????????????1???????????????????12003?????012345"/>
+                            <sequence id="seq_F_Robinsondipterus_longi_374.5" spec="Sequence" taxon="F_Robinsondipterus_longi_374.5" totalcount="6" value="???????????????????????????????????????????01????????1210????110??12010121310???2??????????012345"/>
+                            <sequence id="seq_F_Sagenodus_inaequalis_307" spec="Sequence" taxon="F_Sagenodus_inaequalis_307" totalcount="6" value="12001201?011101021011011410110131101110010?20102121140220?2030021222021?10302210?122110??11012345"/>
+                            <sequence id="seq_F_Scaumenacia_curta_372.2" spec="Sequence" taxon="F_Scaumenacia_curta_372.2" totalcount="6" value="12000100?0011000200110?100001001110000001??2100212?01022022030?2112?0???1030221??1210320001012345"/>
+                            <sequence id="seq_F_Soederberghia_groenlandica_358.9" spec="Sequence" taxon="F_Soederberghia_groenlandica_358.9" totalcount="6" value="12100110?00111000?0110?1410110011110110110?11?00110111220????12?01??1???2??10?????????11???012345"/>
+                            <sequence id="seq_F_Sorbitorhynchus_deleaskitus_391.9" spec="Sequence" taxon="F_Sorbitorhynchus_deleaskitus_391.9" totalcount="6" value="??00?120000????0??0100101?????001????0000012111214?020220????0103?221?00013000?0001???000??012345"/>
+                            <sequence id="seq_F_Speonesydrion_iani_407" spec="Sequence" taxon="F_Speonesydrion_iani_407" totalcount="6" value="00000?00?00?0?001?000000000??0000????00000?0????????00110000000000?0000000100?0???1????00?0012345"/>
+                            <sequence id="seq_F_Stomiahykus_thlaodus_387.7" spec="Sequence" taxon="F_Stomiahykus_thlaodus_387.7" totalcount="6" value="1000???000??0?00?????00000????00??0??00?00102??????????10???????????????10302??????????????012345"/>
+                            <sequence id="seq_F_Straitonia_waterstoni_326.4" spec="Sequence" taxon="F_Straitonia_waterstoni_326.4" totalcount="6" value="12001201?01110112101?012200?1023111??00010??????????????????3???????????1??????????21????1?012345"/>
+                            <sequence id="seq_F_Sunwapta_grandiceps_358.9" spec="Sequence" taxon="F_Sunwapta_grandiceps_358.9" totalcount="6" value="????????????????????????????????????????0????????????????????0?00?22????10?03??????????????012345"/>
+                            <sequence id="seq_F_Tarachomylax_oepiki_393.3" spec="Sequence" taxon="F_Tarachomylax_oepiki_393.3" totalcount="6" value="00000100?00?0?001?0100100001000011001?0000?2???????????20???2???????????1030210???1????00?0012345"/>
+                            <sequence id="seq_F_Tellerodus_sturi_203.6" spec="Sequence" taxon="F_Tellerodus_sturi_203.6" totalcount="6" value="1210132300204?03214??4123120203011???50010?22?0214??3022????3???????????1030321????????????012345"/>
+                            <sequence id="seq_F_Tranodis_castrensis_318.1" spec="Sequence" taxon="F_Tranodis_castrensis_318.1" totalcount="6" value="12001201?001100121010012300110231100100010?21101121130220?2030121122021?10302?1??12??1011?1012345"/>
+                            <sequence id="seq_F_Uranolophus_wyomingensis_410.8" spec="Sequence" taxon="F_Uranolophus_wyomingensis_410.8" totalcount="6" value="11000100?0001000000000000000?0000????0000001000000?00122001000100000000121310001?00000?0000012345"/>
+                            <sequence id="seq_F_Westollrhynchus_lehmanni_407" spec="Sequence" taxon="F_Westollrhynchus_lehmanni_407" totalcount="6" value="?0000?00?00?0?001?000000?02??0000?1??00000?00?0?00?001?00010????????????02010?0????????????012345"/>
+                            <userDataType id="StandardData.0" spec="beast.evolution.datatype.StandardData" ambiguities="" nrOfStates="6"/>
+                        </data>
+
+
+    
+
+
+    
+
+
+    
+<map name="Uniform" >beast.math.distributions.Uniform</map>
+<map name="Exponential" >beast.math.distributions.Exponential</map>
+<map name="LogNormal" >beast.math.distributions.LogNormalDistributionModel</map>
+<map name="Normal" >beast.math.distributions.Normal</map>
+<map name="Beta" >beast.math.distributions.Beta</map>
+<map name="Gamma" >beast.math.distributions.Gamma</map>
+<map name="LaplaceDistribution" >beast.math.distributions.LaplaceDistribution</map>
+<map name="prior" >beast.math.distributions.Prior</map>
+<map name="InverseGamma" >beast.math.distributions.InverseGamma</map>
+<map name="OneOnX" >beast.math.distributions.OneOnX</map>
+
+
+<run id="mcmc" spec="MCMC" chainLength="250000000" storeEvery="100000">
+    <state id="state" spec="State" storeEvery="100000">
+        <tree id="Tree.t:data_lungfishes_morphology_Lloyd-etal_matrix" spec="beast.evolution.tree.Tree" name="stateNode">
+            <trait id="dateTrait.t:data_lungfishes_morphology_Lloyd-etal_matrix" spec="beast.evolution.tree.TraitSet" traitname="date-backward" value="F_Adelargo_schultzei_360.7=360.7,F_Adololopas_moyasmithae_372.2=372.2,F_Amadeodipterus_kencampbelli_387.7=387.7,F_Andreyevichthys_epitomus_359.2=359.2,F_Aphelodus_anapes_245=245,F_Archaeoceratodus_avus_98=98,F_Archaeonectes_pertusus_374.5=374.5,F_Arganodus_atlantis_228=228,F_Ariguna_formosa_245=245,F_Asiatoceratodus_sharovi_245=245,F_Asthenorhynchus_meemannae_374.5=374.5,F_Barwickia_downunda_383.7=383.7,F_Beltanodus_ambilobensis_245=245,F_Ceratodus_formosa_245=245,F_Ceratodus_latissimus_201.3=201.3,F_Chirodipterus_australis_374.5=374.5,F_Chirodipterus_onawwayensis_382.7=382.7,F_Chirodipterus_rhenanus_385.3=385.3,F_Chirodipterus_wildungensis_374.5=374.5,F_Conchopoma_gadiforme_306.5=306.5,F_Ctenodus_romeri_345.3=345.3,F_Delatitia_breviceps_346.7=346.7,F_Diabolepis_speratus_410.8=410.8,F_Dipnorhynch_cathlesae_393.3=393.3,F_Dipnorhynchus_kiandrensis_393.3=393.3,F_Dipnorhynchus_kurikae_393.3=393.3,F_Dipnorhynchus_sussmilchi_393.3=393.3,F_Dipterus_cf_valenciennesi_374.5=374.5,F_Dipterus_valenciennesi_391.8=391.8,F_Eoctenodus_microsoma_374.5=374.5,F_Ferganoceratodus_jurassicus_163.5=163.5,F_Fleurantia_denticulata_372.2=372.2,F_Ganopristodus_splendens_326.4=326.4,F_Gnathorhiza_serrata_272.3=272.3,F_Gogodipterus_paddyensis_374.5=374.5,F_Gosfordia_truncata_242=242,F_Griphognathus_minutidens_374.5=374.5,F_Griphognathus_sculpta_374.5=374.5,F_Griphognathus_whitei_374.5=374.5,F_Grossipterus_crassus_374.5=374.5,F_Holodipterus_elderae_374.5=374.5,F_Holodipterus_gogoensis_374.5=374.5,F_Holodipterus_santacrucensis_374.5=374.5,F_Howidipterus_donnae_383.7=383.7,F_Ichnomylax_kurnai_402.5=402.5,F_Iowadipterus_halli_382.7=382.7,F_Jarvikia_arctica_359.2=359.2,F_Jessenia_concentrica_397.5=397.5,Lepidosiren_paradoxa_0.0=0.0,F_Megapleuron_zangerli_306.9=306.9,F_Melanognathus_canadensis_393.3=393.3,F_Metaceratodus_wollastoni_99.6=99.6,F_Microceratodus_angolensis_251.3=251.3,F_Mioceratodus_gregoryi_23.033=23.033,F_Namatozodia_pitikanta_245=245,Neoceratodus_forsteri_0.0=0.0,F_Nielsenia_nordica_359.2=359.2,F_Oervigia_nordica_359.2=359.2,F_Orlovichthys_limnatis_359.2=359.2,F_Palaeodaphus_insignis_374.5=374.5,F_Palaeophichthys_parvulus_306.5=306.5,F_Paraceratodus_germaini_251.3=251.3,F_Parasagenodus_sibiricus_318.1=318.1,F_Pentlandia_macroptera_385.3=385.3,F_Phaneropleuron_andersoni_359.2=359.2,F_Pillararhynchus_longi_374.5=374.5,Protopterus_annectens_0.0=0.0,F_Psarolepis_romeri_410.8=410.8,F_Ptychoceratodus_serratus_235=235,F_Rhinodipterus_secans_374.5=374.5,F_Rhinodipterus_ulrichi_385.3=385.3,F_Rhynchodipterus_elginensis_359.2=359.2,F_Robinsondipterus_longi_374.5=374.5,F_Sagenodus_inaequalis_307=307,F_Scaumenacia_curta_372.2=372.2,F_Soederberghia_groenlandica_358.9=358.9,F_Sorbitorhynchus_deleaskitus_391.9=391.9,F_Speonesydrion_iani_407=407,F_Stomiahykus_thlaodus_387.7=387.7,F_Straitonia_waterstoni_326.4=326.4,F_Sunwapta_grandiceps_358.9=358.9,F_Tarachomylax_oepiki_393.3=393.3,F_Tellerodus_sturi_203.6=203.6,F_Tranodis_castrensis_318.1=318.1,F_Uranolophus_wyomingensis_410.8=410.8,F_Westollrhynchus_lehmanni_407=407">
+                <taxa id="TaxonSet.data_lungfishes_morphology_Lloyd-etal_matrix2" spec="TaxonSet">
+                    <alignment id="data_lungfishes_morphology_Lloyd-etal_matrix2" spec="FilteredAlignment" ascertained="true" excludefrom="33" excludeto="35" filter="1,3-4,9-10,12,14,18,20-21,23,34-37,39-42,47,51-52,54,69,72,76,79-80,82,85,88-90,92-93">
+                        <data idref="data_lungfishes_morphology_Lloyd-etal_matrix"/>
+                        <userDataType id="morphDataType.data_lungfishes_morphology_Lloyd-etal_matrix2" spec="beast.evolution.datatype.StandardData" ambiguities="" nrOfStates="2"/>
+                    </alignment>
+                </taxa>
+            </trait>
+            <taxonset idref="TaxonSet.data_lungfishes_morphology_Lloyd-etal_matrix2"/>
+        </tree>
+        <parameter id="gammaShape.s:data_lungfishes_morphology_Lloyd-etal_matrix2" spec="parameter.RealParameter" name="stateNode">1.0</parameter>
+        <parameter id="gammaShape.s:data_lungfishes_morphology_Lloyd-etal_matrix3" spec="parameter.RealParameter" name="stateNode">1.0</parameter>
+        <parameter id="gammaShape.s:data_lungfishes_morphology_Lloyd-etal_matrix4" spec="parameter.RealParameter" name="stateNode">1.0</parameter>
+        <parameter id="gammaShape.s:data_lungfishes_morphology_Lloyd-etal_matrix5" spec="parameter.RealParameter" name="stateNode">1.0</parameter>
+        <parameter id="gammaShape.s:data_lungfishes_morphology_Lloyd-etal_matrix6" spec="parameter.RealParameter" name="stateNode">1.0</parameter>
+        <parameter id="ucldMean.c:data_lungfishes_morphology_Lloyd-etal_matrix" spec="parameter.RealParameter" name="stateNode">1.0</parameter>
+        <parameter id="ucldStdev.c:data_lungfishes_morphology_Lloyd-etal_matrix" spec="parameter.RealParameter" lower="0.0" name="stateNode">0.1</parameter>
+        <stateNode id="rateCategories.c:data_lungfishes_morphology_Lloyd-etal_matrix" spec="parameter.IntegerParameter" dimension="170">1</stateNode>
+        <parameter id="diversificationRateFBD.t:data_lungfishes_morphology_Lloyd-etal_matrix" spec="parameter.RealParameter" lower="0.0" name="stateNode">0.01</parameter>
+        <parameter id="turnoverFBD.t:data_lungfishes_morphology_Lloyd-etal_matrix" spec="parameter.RealParameter" lower="0.0" name="stateNode" upper="1.0">0.5</parameter>
+        <parameter id="samplingProportionFBD.t:data_lungfishes_morphology_Lloyd-etal_matrix" spec="parameter.RealParameter" lower="0.0" name="stateNode" upper="1.0">0.5</parameter>
+        <parameter id="originFBD.t:data_lungfishes_morphology_Lloyd-etal_matrix" spec="parameter.RealParameter" lower="0.0" name="stateNode">425.0</parameter>
+    </state>
+
+    <init id="RandomTree.t:data_lungfishes_morphology_Lloyd-etal_matrix" spec="beast.evolution.tree.RandomTree" estimate="false" initial="@Tree.t:data_lungfishes_morphology_Lloyd-etal_matrix" taxa="@data_lungfishes_morphology_Lloyd-etal_matrix2">
+        <populationModel id="ConstantPopulation0.t:data_lungfishes_morphology_Lloyd-etal_matrix" spec="ConstantPopulation">
+            <parameter id="randomPopSize.t:data_lungfishes_morphology_Lloyd-etal_matrix" spec="parameter.RealParameter" name="popSize">1.0</parameter>
+        </populationModel>
+    </init>
+
+    <distribution id="posterior" spec="util.CompoundDistribution">
+        <distribution id="prior" spec="util.CompoundDistribution">
+            <distribution id="FBD.t:data_lungfishes_morphology_Lloyd-etal_matrix" spec="beast.evolution.speciation.SABirthDeathModel" conditionOnRhoSampling="true" diversificationRate="@diversificationRateFBD.t:data_lungfishes_morphology_Lloyd-etal_matrix" origin="@originFBD.t:data_lungfishes_morphology_Lloyd-etal_matrix" samplingProportion="@samplingProportionFBD.t:data_lungfishes_morphology_Lloyd-etal_matrix" tree="@Tree.t:data_lungfishes_morphology_Lloyd-etal_matrix" turnover="@turnoverFBD.t:data_lungfishes_morphology_Lloyd-etal_matrix">
+                <parameter id="rFBD.t:data_lungfishes_morphology_Lloyd-etal_matrix" spec="parameter.RealParameter" lower="0.0" name="removalProbability" upper="1.0">0.0</parameter>
+                <parameter id="rhoFBD.t:data_lungfishes_morphology_Lloyd-etal_matrix" spec="parameter.RealParameter" estimate="false" lower="0.0" name="rho" upper="1.0">1.0</parameter>
+            </distribution>
+            <prior id="diversificationRatePriorFBD.t:data_lungfishes_morphology_Lloyd-etal_matrix" name="distribution" x="@diversificationRateFBD.t:data_lungfishes_morphology_Lloyd-etal_matrix">
+                <Uniform id="Uniform.4" name="distr" upper="Infinity"/>
+            </prior>
+            <prior id="GammaShapePrior.s:data_lungfishes_morphology_Lloyd-etal_matrix2" name="distribution" x="@gammaShape.s:data_lungfishes_morphology_Lloyd-etal_matrix2">
+                <Exponential id="Exponential.0" name="distr">
+                    <parameter id="RealParameter.0" spec="parameter.RealParameter" lower="0.0" name="mean" upper="0.0">1.0</parameter>
+                </Exponential>
+            </prior>
+            <prior id="GammaShapePrior.s:data_lungfishes_morphology_Lloyd-etal_matrix3" name="distribution" x="@gammaShape.s:data_lungfishes_morphology_Lloyd-etal_matrix3">
+                <Exponential id="Exponential.1" name="distr">
+                    <parameter id="RealParameter.1" spec="parameter.RealParameter" lower="0.0" name="mean" upper="0.0">1.0</parameter>
+                </Exponential>
+            </prior>
+            <prior id="GammaShapePrior.s:data_lungfishes_morphology_Lloyd-etal_matrix4" name="distribution" x="@gammaShape.s:data_lungfishes_morphology_Lloyd-etal_matrix4">
+                <Exponential id="Exponential.2" name="distr">
+                    <parameter id="RealParameter.2" spec="parameter.RealParameter" lower="0.0" name="mean" upper="0.0">1.0</parameter>
+                </Exponential>
+            </prior>
+            <prior id="GammaShapePrior.s:data_lungfishes_morphology_Lloyd-etal_matrix5" name="distribution" x="@gammaShape.s:data_lungfishes_morphology_Lloyd-etal_matrix5">
+                <Exponential id="Exponential.3" name="distr">
+                    <parameter id="RealParameter.3" spec="parameter.RealParameter" lower="0.0" name="mean" upper="0.0">1.0</parameter>
+                </Exponential>
+            </prior>
+            <prior id="GammaShapePrior.s:data_lungfishes_morphology_Lloyd-etal_matrix6" name="distribution" x="@gammaShape.s:data_lungfishes_morphology_Lloyd-etal_matrix6">
+                <Exponential id="Exponential.4" name="distr">
+                    <parameter id="RealParameter.4" spec="parameter.RealParameter" lower="0.0" name="mean" upper="0.0">1.0</parameter>
+                </Exponential>
+            </prior>
+            <prior id="originPriorFBD.t:data_lungfishes_morphology_Lloyd-etal_matrix" name="distribution" x="@originFBD.t:data_lungfishes_morphology_Lloyd-etal_matrix">
+                <Uniform id="Uniform.3" name="distr" upper="Infinity"/>
+            </prior>
+            <prior id="samplingProportionPriorFBD.t:data_lungfishes_morphology_Lloyd-etal_matrix" name="distribution" x="@samplingProportionFBD.t:data_lungfishes_morphology_Lloyd-etal_matrix">
+                <Uniform id="Uniform.6" name="distr"/>
+            </prior>
+            <prior id="turnoverPriorFBD.t:data_lungfishes_morphology_Lloyd-etal_matrix" name="distribution" x="@turnoverFBD.t:data_lungfishes_morphology_Lloyd-etal_matrix">
+                <Uniform id="Uniform.5" name="distr"/>
+            </prior>
+            <prior id="MeanRatePrior.c:data_lungfishes_morphology_Lloyd-etal_matrix" name="distribution" x="@ucldMean.c:data_lungfishes_morphology_Lloyd-etal_matrix">
+                <Uniform id="Uniform.2" name="distr" upper="Infinity"/>
+            </prior>
+            <prior id="ucldStdevPrior.c:data_lungfishes_morphology_Lloyd-etal_matrix" name="distribution" x="@ucldStdev.c:data_lungfishes_morphology_Lloyd-etal_matrix">
+                <Gamma id="Gamma.0" name="distr">
+                    <parameter id="RealParameter.6" spec="parameter.RealParameter" estimate="false" name="alpha">0.5396</parameter>
+                    <parameter id="RealParameter.7" spec="parameter.RealParameter" estimate="false" name="beta">0.3819</parameter>
+                </Gamma>
+            </prior>
+            <distribution id="dipnoi.prior" spec="beast.math.distributions.MRCAPrior" monophyletic="true" tree="@Tree.t:data_lungfishes_morphology_Lloyd-etal_matrix">
+                <taxonset id="dipnoi" spec="TaxonSet">
+                    <taxon id="F_Adelargo_schultzei_360.7" spec="Taxon"/>
+                    <taxon id="F_Adololopas_moyasmithae_372.2" spec="Taxon"/>
+                    <taxon id="F_Amadeodipterus_kencampbelli_387.7" spec="Taxon"/>
+                    <taxon id="F_Andreyevichthys_epitomus_359.2" spec="Taxon"/>
+                    <taxon id="F_Aphelodus_anapes_245" spec="Taxon"/>
+                    <taxon id="F_Archaeoceratodus_avus_98" spec="Taxon"/>
+                    <taxon id="F_Archaeonectes_pertusus_374.5" spec="Taxon"/>
+                    <taxon id="F_Arganodus_atlantis_228" spec="Taxon"/>
+                    <taxon id="F_Ariguna_formosa_245" spec="Taxon"/>
+                    <taxon id="F_Asiatoceratodus_sharovi_245" spec="Taxon"/>
+                    <taxon id="F_Asthenorhynchus_meemannae_374.5" spec="Taxon"/>
+                    <taxon id="F_Barwickia_downunda_383.7" spec="Taxon"/>
+                    <taxon id="F_Beltanodus_ambilobensis_245" spec="Taxon"/>
+                    <taxon id="F_Ceratodus_formosa_245" spec="Taxon"/>
+                    <taxon id="F_Ceratodus_latissimus_201.3" spec="Taxon"/>
+                    <taxon id="F_Chirodipterus_australis_374.5" spec="Taxon"/>
+                    <taxon id="F_Chirodipterus_onawwayensis_382.7" spec="Taxon"/>
+                    <taxon id="F_Chirodipterus_rhenanus_385.3" spec="Taxon"/>
+                    <taxon id="F_Chirodipterus_wildungensis_374.5" spec="Taxon"/>
+                    <taxon id="F_Conchopoma_gadiforme_306.5" spec="Taxon"/>
+                    <taxon id="F_Ctenodus_romeri_345.3" spec="Taxon"/>
+                    <taxon id="F_Delatitia_breviceps_346.7" spec="Taxon"/>
+                    <taxon id="F_Dipnorhynch_cathlesae_393.3" spec="Taxon"/>
+                    <taxon id="F_Dipnorhynchus_kiandrensis_393.3" spec="Taxon"/>
+                    <taxon id="F_Dipnorhynchus_kurikae_393.3" spec="Taxon"/>
+                    <taxon id="F_Dipnorhynchus_sussmilchi_393.3" spec="Taxon"/>
+                    <taxon id="F_Dipterus_cf_valenciennesi_374.5" spec="Taxon"/>
+                    <taxon id="F_Dipterus_valenciennesi_391.8" spec="Taxon"/>
+                    <taxon id="F_Eoctenodus_microsoma_374.5" spec="Taxon"/>
+                    <taxon id="F_Ferganoceratodus_jurassicus_163.5" spec="Taxon"/>
+                    <taxon id="F_Fleurantia_denticulata_372.2" spec="Taxon"/>
+                    <taxon id="F_Ganopristodus_splendens_326.4" spec="Taxon"/>
+                    <taxon id="F_Gnathorhiza_serrata_272.3" spec="Taxon"/>
+                    <taxon id="F_Gogodipterus_paddyensis_374.5" spec="Taxon"/>
+                    <taxon id="F_Gosfordia_truncata_242" spec="Taxon"/>
+                    <taxon id="F_Griphognathus_minutidens_374.5" spec="Taxon"/>
+                    <taxon id="F_Griphognathus_sculpta_374.5" spec="Taxon"/>
+                    <taxon id="F_Griphognathus_whitei_374.5" spec="Taxon"/>
+                    <taxon id="F_Grossipterus_crassus_374.5" spec="Taxon"/>
+                    <taxon id="F_Holodipterus_elderae_374.5" spec="Taxon"/>
+                    <taxon id="F_Holodipterus_gogoensis_374.5" spec="Taxon"/>
+                    <taxon id="F_Holodipterus_santacrucensis_374.5" spec="Taxon"/>
+                    <taxon id="F_Howidipterus_donnae_383.7" spec="Taxon"/>
+                    <taxon id="F_Ichnomylax_kurnai_402.5" spec="Taxon"/>
+                    <taxon id="F_Iowadipterus_halli_382.7" spec="Taxon"/>
+                    <taxon id="F_Jarvikia_arctica_359.2" spec="Taxon"/>
+                    <taxon id="F_Jessenia_concentrica_397.5" spec="Taxon"/>
+                    <taxon id="F_Megapleuron_zangerli_306.9" spec="Taxon"/>
+                    <taxon id="F_Melanognathus_canadensis_393.3" spec="Taxon"/>
+                    <taxon id="F_Metaceratodus_wollastoni_99.6" spec="Taxon"/>
+                    <taxon id="F_Microceratodus_angolensis_251.3" spec="Taxon"/>
+                    <taxon id="F_Mioceratodus_gregoryi_23.033" spec="Taxon"/>
+                    <taxon id="F_Namatozodia_pitikanta_245" spec="Taxon"/>
+                    <taxon id="F_Nielsenia_nordica_359.2" spec="Taxon"/>
+                    <taxon id="F_Oervigia_nordica_359.2" spec="Taxon"/>
+                    <taxon id="F_Orlovichthys_limnatis_359.2" spec="Taxon"/>
+                    <taxon id="F_Palaeodaphus_insignis_374.5" spec="Taxon"/>
+                    <taxon id="F_Palaeophichthys_parvulus_306.5" spec="Taxon"/>
+                    <taxon id="F_Paraceratodus_germaini_251.3" spec="Taxon"/>
+                    <taxon id="F_Parasagenodus_sibiricus_318.1" spec="Taxon"/>
+                    <taxon id="F_Pentlandia_macroptera_385.3" spec="Taxon"/>
+                    <taxon id="F_Phaneropleuron_andersoni_359.2" spec="Taxon"/>
+                    <taxon id="F_Pillararhynchus_longi_374.5" spec="Taxon"/>
+                    <taxon id="F_Ptychoceratodus_serratus_235" spec="Taxon"/>
+                    <taxon id="F_Rhinodipterus_secans_374.5" spec="Taxon"/>
+                    <taxon id="F_Rhinodipterus_ulrichi_385.3" spec="Taxon"/>
+                    <taxon id="F_Rhynchodipterus_elginensis_359.2" spec="Taxon"/>
+                    <taxon id="F_Robinsondipterus_longi_374.5" spec="Taxon"/>
+                    <taxon id="F_Sagenodus_inaequalis_307" spec="Taxon"/>
+                    <taxon id="F_Scaumenacia_curta_372.2" spec="Taxon"/>
+                    <taxon id="F_Soederberghia_groenlandica_358.9" spec="Taxon"/>
+                    <taxon id="F_Sorbitorhynchus_deleaskitus_391.9" spec="Taxon"/>
+                    <taxon id="F_Speonesydrion_iani_407" spec="Taxon"/>
+                    <taxon id="F_Stomiahykus_thlaodus_387.7" spec="Taxon"/>
+                    <taxon id="F_Straitonia_waterstoni_326.4" spec="Taxon"/>
+                    <taxon id="F_Sunwapta_grandiceps_358.9" spec="Taxon"/>
+                    <taxon id="F_Tarachomylax_oepiki_393.3" spec="Taxon"/>
+                    <taxon id="F_Tellerodus_sturi_203.6" spec="Taxon"/>
+                    <taxon id="F_Tranodis_castrensis_318.1" spec="Taxon"/>
+                    <taxon id="F_Uranolophus_wyomingensis_410.8" spec="Taxon"/>
+                    <taxon id="F_Westollrhynchus_lehmanni_407" spec="Taxon"/>
+                    <taxon id="Lepidosiren_paradoxa_0.0" spec="Taxon"/>
+                    <taxon id="Neoceratodus_forsteri_0.0" spec="Taxon"/>
+                    <taxon id="Protopterus_annectens_0.0" spec="Taxon"/>
+                </taxonset>
+            </distribution>
+            <distribution id="protopterids-ptycho-gosfordia.prior" spec="beast.math.distributions.MRCAPrior" monophyletic="true" tree="@Tree.t:data_lungfishes_morphology_Lloyd-etal_matrix">
+                <taxonset id="protopterids-ptycho-gosfordia" spec="TaxonSet">
+                    <taxon idref="F_Gosfordia_truncata_242"/>
+                    <taxon idref="F_Ptychoceratodus_serratus_235"/>
+                    <taxon idref="Lepidosiren_paradoxa_0.0"/>
+                    <taxon idref="Protopterus_annectens_0.0"/>
+                </taxonset>
+            </distribution>
+            <distribution id="protopterids.prior" spec="beast.math.distributions.MRCAPrior" monophyletic="true" tree="@Tree.t:data_lungfishes_morphology_Lloyd-etal_matrix">
+                <taxonset id="protopterids" spec="TaxonSet">
+                    <taxon idref="Lepidosiren_paradoxa_0.0"/>
+                    <taxon idref="Protopterus_annectens_0.0"/>
+                </taxonset>
+                <distr id="FossilCalibration.5" spec="beast.math.distributions.FossilCalibration">
+                    <parameter id="RealParameter.242" spec="parameter.RealParameter" name="minOccuranceAge">100.0</parameter>
+                    <parameter id="RealParameter.243" spec="parameter.RealParameter" name="maxOccuranceAge">100.0</parameter>
+                    <parameter id="minDivRate" spec="parameter.RealParameter" name="minDivRate">0.01</parameter>
+                    <parameter id="maxDivRate" spec="parameter.RealParameter" name="maxDivRate">0.01</parameter>
+                    <parameter id="minTurnoverRate" spec="parameter.RealParameter" name="minTurnoverRate">0.001</parameter>
+                    <parameter id="maxTurnoverRate" spec="parameter.RealParameter" name="maxTurnoverRate">0.001</parameter>
+                    <parameter id="minSamplingRate" spec="parameter.RealParameter" name="minSamplingRate">0.01</parameter>
+                    <parameter id="maxSamplingRate" spec="parameter.RealParameter" name="maxSamplingRate">0.01</parameter>
+                </distr>
+            </distribution>
+            <distribution id="root.prior" spec="beast.math.distributions.MRCAPrior" monophyletic="true" tree="@Tree.t:data_lungfishes_morphology_Lloyd-etal_matrix">
+                <taxonset id="root" spec="TaxonSet">
+                    <taxon idref="F_Adelargo_schultzei_360.7"/>
+                    <taxon idref="F_Adololopas_moyasmithae_372.2"/>
+                    <taxon idref="F_Amadeodipterus_kencampbelli_387.7"/>
+                    <taxon idref="F_Andreyevichthys_epitomus_359.2"/>
+                    <taxon idref="F_Aphelodus_anapes_245"/>
+                    <taxon idref="F_Archaeoceratodus_avus_98"/>
+                    <taxon idref="F_Archaeonectes_pertusus_374.5"/>
+                    <taxon idref="F_Arganodus_atlantis_228"/>
+                    <taxon idref="F_Ariguna_formosa_245"/>
+                    <taxon idref="F_Asiatoceratodus_sharovi_245"/>
+                    <taxon idref="F_Asthenorhynchus_meemannae_374.5"/>
+                    <taxon idref="F_Barwickia_downunda_383.7"/>
+                    <taxon idref="F_Beltanodus_ambilobensis_245"/>
+                    <taxon idref="F_Ceratodus_formosa_245"/>
+                    <taxon idref="F_Ceratodus_latissimus_201.3"/>
+                    <taxon idref="F_Chirodipterus_australis_374.5"/>
+                    <taxon idref="F_Chirodipterus_onawwayensis_382.7"/>
+                    <taxon idref="F_Chirodipterus_rhenanus_385.3"/>
+                    <taxon idref="F_Chirodipterus_wildungensis_374.5"/>
+                    <taxon idref="F_Conchopoma_gadiforme_306.5"/>
+                    <taxon idref="F_Ctenodus_romeri_345.3"/>
+                    <taxon idref="F_Delatitia_breviceps_346.7"/>
+                    <taxon id="F_Diabolepis_speratus_410.8" spec="Taxon"/>
+                    <taxon idref="F_Dipnorhynch_cathlesae_393.3"/>
+                    <taxon idref="F_Dipnorhynchus_kiandrensis_393.3"/>
+                    <taxon idref="F_Dipnorhynchus_kurikae_393.3"/>
+                    <taxon idref="F_Dipnorhynchus_sussmilchi_393.3"/>
+                    <taxon idref="F_Dipterus_cf_valenciennesi_374.5"/>
+                    <taxon idref="F_Dipterus_valenciennesi_391.8"/>
+                    <taxon idref="F_Eoctenodus_microsoma_374.5"/>
+                    <taxon idref="F_Ferganoceratodus_jurassicus_163.5"/>
+                    <taxon idref="F_Fleurantia_denticulata_372.2"/>
+                    <taxon idref="F_Ganopristodus_splendens_326.4"/>
+                    <taxon idref="F_Gnathorhiza_serrata_272.3"/>
+                    <taxon idref="F_Gogodipterus_paddyensis_374.5"/>
+                    <taxon idref="F_Gosfordia_truncata_242"/>
+                    <taxon idref="F_Griphognathus_minutidens_374.5"/>
+                    <taxon idref="F_Griphognathus_sculpta_374.5"/>
+                    <taxon idref="F_Griphognathus_whitei_374.5"/>
+                    <taxon idref="F_Grossipterus_crassus_374.5"/>
+                    <taxon idref="F_Holodipterus_elderae_374.5"/>
+                    <taxon idref="F_Holodipterus_gogoensis_374.5"/>
+                    <taxon idref="F_Holodipterus_santacrucensis_374.5"/>
+                    <taxon idref="F_Howidipterus_donnae_383.7"/>
+                    <taxon idref="F_Ichnomylax_kurnai_402.5"/>
+                    <taxon idref="F_Iowadipterus_halli_382.7"/>
+                    <taxon idref="F_Jarvikia_arctica_359.2"/>
+                    <taxon idref="F_Jessenia_concentrica_397.5"/>
+                    <taxon idref="F_Megapleuron_zangerli_306.9"/>
+                    <taxon idref="F_Melanognathus_canadensis_393.3"/>
+                    <taxon idref="F_Metaceratodus_wollastoni_99.6"/>
+                    <taxon idref="F_Microceratodus_angolensis_251.3"/>
+                    <taxon idref="F_Mioceratodus_gregoryi_23.033"/>
+                    <taxon idref="F_Namatozodia_pitikanta_245"/>
+                    <taxon idref="F_Nielsenia_nordica_359.2"/>
+                    <taxon idref="F_Oervigia_nordica_359.2"/>
+                    <taxon idref="F_Orlovichthys_limnatis_359.2"/>
+                    <taxon idref="F_Palaeodaphus_insignis_374.5"/>
+                    <taxon idref="F_Palaeophichthys_parvulus_306.5"/>
+                    <taxon idref="F_Paraceratodus_germaini_251.3"/>
+                    <taxon idref="F_Parasagenodus_sibiricus_318.1"/>
+                    <taxon idref="F_Pentlandia_macroptera_385.3"/>
+                    <taxon idref="F_Phaneropleuron_andersoni_359.2"/>
+                    <taxon idref="F_Pillararhynchus_longi_374.5"/>
+                    <taxon idref="F_Ptychoceratodus_serratus_235"/>
+                    <taxon idref="F_Rhinodipterus_secans_374.5"/>
+                    <taxon idref="F_Rhinodipterus_ulrichi_385.3"/>
+                    <taxon idref="F_Rhynchodipterus_elginensis_359.2"/>
+                    <taxon idref="F_Robinsondipterus_longi_374.5"/>
+                    <taxon idref="F_Sagenodus_inaequalis_307"/>
+                    <taxon idref="F_Scaumenacia_curta_372.2"/>
+                    <taxon idref="F_Soederberghia_groenlandica_358.9"/>
+                    <taxon idref="F_Sorbitorhynchus_deleaskitus_391.9"/>
+                    <taxon idref="F_Speonesydrion_iani_407"/>
+                    <taxon idref="F_Stomiahykus_thlaodus_387.7"/>
+                    <taxon idref="F_Straitonia_waterstoni_326.4"/>
+                    <taxon idref="F_Sunwapta_grandiceps_358.9"/>
+                    <taxon idref="F_Tarachomylax_oepiki_393.3"/>
+                    <taxon idref="F_Tellerodus_sturi_203.6"/>
+                    <taxon idref="F_Tranodis_castrensis_318.1"/>
+                    <taxon idref="F_Uranolophus_wyomingensis_410.8"/>
+                    <taxon idref="F_Westollrhynchus_lehmanni_407"/>
+                    <taxon idref="Lepidosiren_paradoxa_0.0"/>
+                    <taxon idref="Neoceratodus_forsteri_0.0"/>
+                    <taxon idref="Protopterus_annectens_0.0"/>
+                </taxonset>
+                <Uniform id="Uniform.39" lower="410.0" name="distr" upper="435.0"/>
+            </distribution>
+        </distribution>
+        <distribution id="likelihood" spec="util.CompoundDistribution" useThreads="true">
+            <distribution id="morphTreeLikelihood.data_lungfishes_morphology_Lloyd-etal_matrix2" spec="TreeLikelihood" data="@data_lungfishes_morphology_Lloyd-etal_matrix2" tree="@Tree.t:data_lungfishes_morphology_Lloyd-etal_matrix">
+                <siteModel id="morphSiteModel.s:data_lungfishes_morphology_Lloyd-etal_matrix2" spec="SiteModel" gammaCategoryCount="4" shape="@gammaShape.s:data_lungfishes_morphology_Lloyd-etal_matrix2">
+                    <parameter id="mutationRate.s:data_lungfishes_morphology_Lloyd-etal_matrix2" spec="parameter.RealParameter" estimate="false" name="mutationRate">1.0</parameter>
+                    <substModel id="LewisMK.s:data_lungfishes_morphology_Lloyd-etal_matrix2" spec="LewisMK" datatype="@morphDataType.data_lungfishes_morphology_Lloyd-etal_matrix2"/>
+                </siteModel>
+                <branchRateModel id="RelaxedClock.c:data_lungfishes_morphology_Lloyd-etal_matrix" spec="beast.evolution.branchratemodel.UCRelaxedClockModel" clock.rate="@ucldMean.c:data_lungfishes_morphology_Lloyd-etal_matrix" rateCategories="@rateCategories.c:data_lungfishes_morphology_Lloyd-etal_matrix" tree="@Tree.t:data_lungfishes_morphology_Lloyd-etal_matrix">
+                    <LogNormal id="LogNormalDistributionModel.c:data_lungfishes_morphology_Lloyd-etal_matrix" S="@ucldStdev.c:data_lungfishes_morphology_Lloyd-etal_matrix" meanInRealSpace="true" name="distr">
+                        <parameter id="RealParameter.5" spec="parameter.RealParameter" estimate="false" lower="0.0" name="M" upper="1.0">1.0</parameter>
+                    </LogNormal>
+                </branchRateModel>
+            </distribution>
+            <distribution id="morphTreeLikelihood.data_lungfishes_morphology_Lloyd-etal_matrix3" spec="TreeLikelihood" branchRateModel="@RelaxedClock.c:data_lungfishes_morphology_Lloyd-etal_matrix" tree="@Tree.t:data_lungfishes_morphology_Lloyd-etal_matrix">
+                <data
+id="data_lungfishes_morphology_Lloyd-etal_matrix3"
+spec="FilteredAlignment"
+ascertained="true"
+data="@data_lungfishes_morphology_Lloyd-etal_matrix"
+excludefrom="36"
+excludeto="39"
+filter="2,5,7,11,15,17,26,28,30,33,43-46,48,55-60,62-64,67-68,70-71,73-75,78,81,83-84,91,92-94">
+                    <userDataType id="morphDataType.data_lungfishes_morphology_Lloyd-etal_matrix3" spec="beast.evolution.datatype.StandardData" ambiguities="" nrOfStates="3"/>
+                </data>
+                <siteModel id="morphSiteModel.s:data_lungfishes_morphology_Lloyd-etal_matrix3" spec="SiteModel" gammaCategoryCount="4" shape="@gammaShape.s:data_lungfishes_morphology_Lloyd-etal_matrix3">
+                    <parameter id="mutationRate.s:data_lungfishes_morphology_Lloyd-etal_matrix3" spec="parameter.RealParameter" estimate="false" name="mutationRate">1.0</parameter>
+                    <substModel id="LewisMK.s:data_lungfishes_morphology_Lloyd-etal_matrix3" spec="LewisMK" datatype="@morphDataType.data_lungfishes_morphology_Lloyd-etal_matrix3"/>
+                </siteModel>
+            </distribution>
+            <distribution id="morphTreeLikelihood.data_lungfishes_morphology_Lloyd-etal_matrix4" spec="TreeLikelihood" branchRateModel="@RelaxedClock.c:data_lungfishes_morphology_Lloyd-etal_matrix" tree="@Tree.t:data_lungfishes_morphology_Lloyd-etal_matrix">
+                <data
+id="data_lungfishes_morphology_Lloyd-etal_matrix4"
+spec="FilteredAlignment"
+ascertained="true"
+data="@data_lungfishes_morphology_Lloyd-etal_matrix"
+excludefrom="12"
+excludeto="16"
+filter="8,24,27,29,31-32,49,61,65-66,86-87,92-95">
+                    <userDataType id="morphDataType.data_lungfishes_morphology_Lloyd-etal_matrix4" spec="beast.evolution.datatype.StandardData" ambiguities="" nrOfStates="4"/>
+                </data>
+                <siteModel id="morphSiteModel.s:data_lungfishes_morphology_Lloyd-etal_matrix4" spec="SiteModel" gammaCategoryCount="4" shape="@gammaShape.s:data_lungfishes_morphology_Lloyd-etal_matrix4">
+                    <parameter id="mutationRate.s:data_lungfishes_morphology_Lloyd-etal_matrix4" spec="parameter.RealParameter" estimate="false" name="mutationRate">1.0</parameter>
+                    <substModel id="LewisMK.s:data_lungfishes_morphology_Lloyd-etal_matrix4" spec="LewisMK" datatype="@morphDataType.data_lungfishes_morphology_Lloyd-etal_matrix4"/>
+                </siteModel>
+            </distribution>
+            <distribution id="morphTreeLikelihood.data_lungfishes_morphology_Lloyd-etal_matrix5" spec="TreeLikelihood" branchRateModel="@RelaxedClock.c:data_lungfishes_morphology_Lloyd-etal_matrix" tree="@Tree.t:data_lungfishes_morphology_Lloyd-etal_matrix">
+                <data
+id="data_lungfishes_morphology_Lloyd-etal_matrix5"
+spec="FilteredAlignment"
+ascertained="true"
+data="@data_lungfishes_morphology_Lloyd-etal_matrix"
+excludefrom="7"
+excludeto="12"
+filter="6,13,19,25,50,53,77,92-96">
+                    <userDataType id="morphDataType.data_lungfishes_morphology_Lloyd-etal_matrix5" spec="beast.evolution.datatype.StandardData" ambiguities="" nrOfStates="5"/>
+                </data>
+                <siteModel id="morphSiteModel.s:data_lungfishes_morphology_Lloyd-etal_matrix5" spec="SiteModel" gammaCategoryCount="4" shape="@gammaShape.s:data_lungfishes_morphology_Lloyd-etal_matrix5">
+                    <parameter id="mutationRate.s:data_lungfishes_morphology_Lloyd-etal_matrix5" spec="parameter.RealParameter" estimate="false" name="mutationRate">1.0</parameter>
+                    <substModel id="LewisMK.s:data_lungfishes_morphology_Lloyd-etal_matrix5" spec="LewisMK" datatype="@morphDataType.data_lungfishes_morphology_Lloyd-etal_matrix5"/>
+                </siteModel>
+            </distribution>
+            <distribution id="morphTreeLikelihood.data_lungfishes_morphology_Lloyd-etal_matrix6" spec="TreeLikelihood" branchRateModel="@RelaxedClock.c:data_lungfishes_morphology_Lloyd-etal_matrix" tree="@Tree.t:data_lungfishes_morphology_Lloyd-etal_matrix">
+                <data
+id="data_lungfishes_morphology_Lloyd-etal_matrix6"
+spec="FilteredAlignment"
+ascertained="true"
+data="@data_lungfishes_morphology_Lloyd-etal_matrix"
+excludefrom="3"
+excludeto="9"
+filter="16,22,38,92-97">
+                    <userDataType id="morphDataType.data_lungfishes_morphology_Lloyd-etal_matrix6" spec="beast.evolution.datatype.StandardData" ambiguities="" nrOfStates="6"/>
+                </data>
+                <siteModel id="morphSiteModel.s:data_lungfishes_morphology_Lloyd-etal_matrix6" spec="SiteModel" gammaCategoryCount="4" shape="@gammaShape.s:data_lungfishes_morphology_Lloyd-etal_matrix6">
+                    <parameter id="mutationRate.s:data_lungfishes_morphology_Lloyd-etal_matrix6" spec="parameter.RealParameter" estimate="false" name="mutationRate">1.0</parameter>
+                    <substModel id="LewisMK.s:data_lungfishes_morphology_Lloyd-etal_matrix6" spec="LewisMK" datatype="@morphDataType.data_lungfishes_morphology_Lloyd-etal_matrix6"/>
+                </siteModel>
+            </distribution>
+        </distribution>
+    </distribution>
+
+    <operator id="gammaShapeScaler.s:data_lungfishes_morphology_Lloyd-etal_matrix2" spec="ScaleOperator" parameter="@gammaShape.s:data_lungfishes_morphology_Lloyd-etal_matrix2" scaleFactor="0.5" weight="0.1"/>
+
+    <operator id="gammaShapeScaler.s:data_lungfishes_morphology_Lloyd-etal_matrix3" spec="ScaleOperator" parameter="@gammaShape.s:data_lungfishes_morphology_Lloyd-etal_matrix3" scaleFactor="0.5" weight="0.1"/>
+
+    <operator id="gammaShapeScaler.s:data_lungfishes_morphology_Lloyd-etal_matrix4" spec="ScaleOperator" parameter="@gammaShape.s:data_lungfishes_morphology_Lloyd-etal_matrix4" scaleFactor="0.5" weight="0.1"/>
+
+    <operator id="gammaShapeScaler.s:data_lungfishes_morphology_Lloyd-etal_matrix5" spec="ScaleOperator" parameter="@gammaShape.s:data_lungfishes_morphology_Lloyd-etal_matrix5" scaleFactor="0.5" weight="0.1"/>
+
+    <operator id="gammaShapeScaler.s:data_lungfishes_morphology_Lloyd-etal_matrix6" spec="ScaleOperator" parameter="@gammaShape.s:data_lungfishes_morphology_Lloyd-etal_matrix6" scaleFactor="0.5" weight="0.1"/>
+
+    <operator id="ucldMeanScaler.c:data_lungfishes_morphology_Lloyd-etal_matrix" spec="ScaleOperator" parameter="@ucldMean.c:data_lungfishes_morphology_Lloyd-etal_matrix" scaleFactor="0.5" weight="1.0"/>
+
+    <operator id="ucldStdevScaler.c:data_lungfishes_morphology_Lloyd-etal_matrix" spec="ScaleOperator" parameter="@ucldStdev.c:data_lungfishes_morphology_Lloyd-etal_matrix" scaleFactor="0.5" weight="3.0"/>
+
+    <operator id="CategoriesRandomWalk.c:data_lungfishes_morphology_Lloyd-etal_matrix" spec="IntRandomWalkOperator" parameter="@rateCategories.c:data_lungfishes_morphology_Lloyd-etal_matrix" weight="10.0" windowSize="1"/>
+
+    <operator id="CategoriesSwapOperator.c:data_lungfishes_morphology_Lloyd-etal_matrix" spec="SwapOperator" intparameter="@rateCategories.c:data_lungfishes_morphology_Lloyd-etal_matrix" weight="10.0"/>
+
+    <operator id="CategoriesUniform.c:data_lungfishes_morphology_Lloyd-etal_matrix" spec="UniformOperator" parameter="@rateCategories.c:data_lungfishes_morphology_Lloyd-etal_matrix" weight="10.0"/>
+
+    <operator id="relaxedUpDownOperator.c:data_lungfishes_morphology_Lloyd-etal_matrix" spec="UpDownOperator" scaleFactor="0.75" weight="3.0">
+        <up idref="ucldMean.c:data_lungfishes_morphology_Lloyd-etal_matrix"/>
+        <down idref="Tree.t:data_lungfishes_morphology_Lloyd-etal_matrix"/>
+    </operator>
+
+    <operator id="originScalerFBD.t:data_lungfishes_morphology_Lloyd-etal_matrix" spec="ScaleOperator" parameter="@originFBD.t:data_lungfishes_morphology_Lloyd-etal_matrix" weight="3.0"/>
+
+    <operator id="divRateScalerFBD.t:data_lungfishes_morphology_Lloyd-etal_matrix" spec="ScaleOperator" parameter="@diversificationRateFBD.t:data_lungfishes_morphology_Lloyd-etal_matrix" weight="10.0"/>
+
+    <operator id="turnoverScalerFBD.t:data_lungfishes_morphology_Lloyd-etal_matrix" spec="ScaleOperator" parameter="@turnoverFBD.t:data_lungfishes_morphology_Lloyd-etal_matrix" weight="10.0"/>
+
+    <operator id="samplingPScalerFBD.t:data_lungfishes_morphology_Lloyd-etal_matrix" spec="ScaleOperator" parameter="@samplingProportionFBD.t:data_lungfishes_morphology_Lloyd-etal_matrix" weight="10.0"/>
+
+    <operator id="LeafToSAFBD.t:data_lungfishes_morphology_Lloyd-etal_matrix" spec="LeafToSampledAncestorJump" tree="@Tree.t:data_lungfishes_morphology_Lloyd-etal_matrix" weight="10.0"/>
+
+    <operator id="SAWilsonBaldingFBD.t:data_lungfishes_morphology_Lloyd-etal_matrix" spec="SAWilsonBalding" tree="@Tree.t:data_lungfishes_morphology_Lloyd-etal_matrix" weight="10.0"/>
+
+    <operator id="SAWideFBD.t:data_lungfishes_morphology_Lloyd-etal_matrix" spec="SAExchange" isNarrow="false" tree="@Tree.t:data_lungfishes_morphology_Lloyd-etal_matrix" weight="10.0"/>
+
+    <operator id="SANarrowFBD.t:data_lungfishes_morphology_Lloyd-etal_matrix" spec="SAExchange" tree="@Tree.t:data_lungfishes_morphology_Lloyd-etal_matrix" weight="10.0"/>
+
+    <operator id="SAUniformOperatorFBD.t:data_lungfishes_morphology_Lloyd-etal_matrix" spec="SAUniform" tree="@Tree.t:data_lungfishes_morphology_Lloyd-etal_matrix" weight="20.0"/>
+
+    <operator id="SATreeRootScalerFBD.t:data_lungfishes_morphology_Lloyd-etal_matrix" spec="SAScaleOperator" rootOnly="true" scaleFactor="0.95" tree="@Tree.t:data_lungfishes_morphology_Lloyd-etal_matrix" weight="1.0"/>
+
+    <operator id="SATreeScalerFBD.t:data_lungfishes_morphology_Lloyd-etal_matrix" spec="SAScaleOperator" scaleFactor="0.95" tree="@Tree.t:data_lungfishes_morphology_Lloyd-etal_matrix" weight="3.0"/>
+
+    <logger id="tracelog" spec="Logger" fileName="beast_lungfishes_morphology_Lloyd-etal_log.log" logEvery="100000" model="@posterior" sanitiseHeaders="true" sort="smart">
+        <log idref="posterior"/>
+        <log idref="likelihood"/>
+        <log idref="prior"/>
+        <log id="TreeHeight.t:data_lungfishes_morphology_Lloyd-etal_matrix" spec="beast.evolution.tree.TreeHeightLogger" tree="@Tree.t:data_lungfishes_morphology_Lloyd-etal_matrix"/>
+        <log idref="morphTreeLikelihood.data_lungfishes_morphology_Lloyd-etal_matrix2"/>
+        <log idref="morphTreeLikelihood.data_lungfishes_morphology_Lloyd-etal_matrix6"/>
+        <log idref="morphTreeLikelihood.data_lungfishes_morphology_Lloyd-etal_matrix4"/>
+        <log idref="morphTreeLikelihood.data_lungfishes_morphology_Lloyd-etal_matrix3"/>
+        <log idref="morphTreeLikelihood.data_lungfishes_morphology_Lloyd-etal_matrix5"/>
+        <log idref="gammaShape.s:data_lungfishes_morphology_Lloyd-etal_matrix2"/>
+        <log idref="gammaShape.s:data_lungfishes_morphology_Lloyd-etal_matrix3"/>
+        <log idref="gammaShape.s:data_lungfishes_morphology_Lloyd-etal_matrix4"/>
+        <log idref="gammaShape.s:data_lungfishes_morphology_Lloyd-etal_matrix5"/>
+        <log idref="gammaShape.s:data_lungfishes_morphology_Lloyd-etal_matrix6"/>
+        <log idref="ucldMean.c:data_lungfishes_morphology_Lloyd-etal_matrix"/>
+        <log idref="ucldStdev.c:data_lungfishes_morphology_Lloyd-etal_matrix"/>
+        <log id="rate.c:data_lungfishes_morphology_Lloyd-etal_matrix" spec="beast.evolution.branchratemodel.RateStatistic" branchratemodel="@RelaxedClock.c:data_lungfishes_morphology_Lloyd-etal_matrix" tree="@Tree.t:data_lungfishes_morphology_Lloyd-etal_matrix"/>
+        <log idref="FBD.t:data_lungfishes_morphology_Lloyd-etal_matrix"/>
+        <log idref="diversificationRateFBD.t:data_lungfishes_morphology_Lloyd-etal_matrix"/>
+        <log idref="turnoverFBD.t:data_lungfishes_morphology_Lloyd-etal_matrix"/>
+        <log idref="samplingProportionFBD.t:data_lungfishes_morphology_Lloyd-etal_matrix"/>
+        <log idref="originFBD.t:data_lungfishes_morphology_Lloyd-etal_matrix"/>
+        <log id="SACountFBD.t:data_lungfishes_morphology_Lloyd-etal_matrix" spec="beast.evolution.tree.SampledAncestorLogger" tree="@Tree.t:data_lungfishes_morphology_Lloyd-etal_matrix"/>
+        <log idref="root.prior"/>
+        <log idref="dipnoi.prior"/>
+        <log idref="protopterids-ptycho-gosfordia.prior"/>
+        <log idref="protopterids.prior"/>
+    </logger>
+
+    <logger id="screenlog" spec="Logger" fileName="beast_lungfishes_morphology_Lloyd-etal_log" logEvery="100000">
+        <log idref="posterior"/>
+        <log idref="likelihood"/>
+        <log idref="prior"/>
+    </logger>
+
+    <logger id="treelog.t:data_lungfishes_morphology_Lloyd-etal_matrix" spec="Logger" fileName="beast_lungfishes_morphology_Lloyd-etal.trees" logEvery="100000" mode="tree">
+        <log id="TreeWithMetaDataLogger.t:data_lungfishes_morphology_Lloyd-etal_matrix" spec="beast.evolution.tree.TreeWithMetaDataLogger" branchratemodel="@RelaxedClock.c:data_lungfishes_morphology_Lloyd-etal_matrix" tree="@Tree.t:data_lungfishes_morphology_Lloyd-etal_matrix"/>
+    </logger>
+
+</run>
+
+</beast>
