@@ -1,7 +1,7 @@
 # Canonical Living Fossils
 
 <!-- badges: start -->
-<!-- [![Zenodo DOI](https://zenodo.org/badge/DOI/XYZ.svg)](https://doi.org/XYZ)-->
+[![Zenodo DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24406663.svg)](https://doi.org/10.5281/zenodo.24406663)
 [![Paper: Paleobiology (in press)](https://img.shields.io/badge/Paper-Paleobiology%20(in%20press)-red.svg)](#citation)
 [![Preprint: bioRxiv](https://img.shields.io/badge/bioRxiv-preprint-black)](https://doi.org/10.1101/2024.11.14.623638)
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
@@ -14,6 +14,10 @@ This repository contains the data and scripts necessary to run the analyses cont
 The list below encompasses all of the folders, scripts, and files found within the repository and includes short explanations of each. The list broadly follows the order in which all of the data should be either created or used. Only the [R programming language](https://www.r-project.org/) is needed to replicate the analyses herein. The R scripts included automatically check whether the necessary packages are installed on the local computer and import the native R Serialized Data Files when needed (RDS files were used instead of more open formats because of a need to preserve the complex structure of the objects used and created during the analysis). Make sure the working directory is set to the top level folder containing everything in this repository.
 
 ## Contents
+
+### Documents
+
+- `Electronic Supplementary Material.pdf`: full electronic supplementary material for the publication in PDF format
 
 ### Folders
 
